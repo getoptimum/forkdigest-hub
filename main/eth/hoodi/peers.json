@@ -1,0 +1,24 @@
+[
+	{
+		"gateway_id": "test-gateway2",
+		"gateway_grpc_addr": "192.168.1.1:50051",
+		"gateway_http_addr": "",
+		"mump2p_addr": "",
+		"cluster_id": "cluster-1",
+		"chain_id": "hoodi",
+		"version": "v1.0.0",
+		"commit_hash": "abc",
+		"last_seen": "2026-03-05T15:17:02.352364981+01:00"
+	},
+	{
+		"gateway_id": "test-gateway",
+		"gateway_grpc_addr": "192.168.1.1:50051",
+		"gateway_http_addr": "",
+		"mump2p_addr": "",
+		"cluster_id": "cluster-1",
+		"chain_id": "hoodi",
+		"version": "v1.0.0",
+		"commit_hash": "abc",
+		"last_seen": "2026-03-05T15:17:02.350640308+01:00"
+	}
+]
