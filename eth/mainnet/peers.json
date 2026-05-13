@@ -1,113 +1,14 @@
 [
 	{
-		"gateway_id": "optimum-ethereum-hermes-us-central-hermes-1-prod",
-		"gateway_grpc_addr": "34.61.200.207:50051",
-		"gateway_http_addr": "34.61.200.207:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.61.200.207/tcp/43213\",\"/ip4/10.137.0.3/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWPz13Yatii7gUb5iPg4PLcrHrmYLRrbrXW9AYGVs3JGi7\"}",
+		"gateway_id": "optimum-ethereum-gateway-asia-singapore-node-1",
+		"gateway_grpc_addr": "34.143.202.147:50051",
+		"gateway_http_addr": "34.143.202.147:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.202.147/tcp/43213\",\"/ip4/10.131.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWT1Y4jYUfMpRyK49j2Wh8w9AyoD8GQBQAY1km8q7VvZTP\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-2-prod",
-		"gateway_grpc_addr": "34.126.176.28:50051",
-		"gateway_http_addr": "34.126.176.28:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.176.28/tcp/43213\",\"/ip4/10.131.0.4/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWBvQUVNtqiY5TDXZK79SxxJRJoeafPgqkBw1f9Ctzhrix\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
-	},
-	{
-		"gateway_id": "optimum-gateway-us-prod-ethereum",
-		"gateway_grpc_addr": "35.226.166.76:50051",
-		"gateway_http_addr": "35.226.166.76:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.226.166.76/tcp/43213\",\"/ip4/10.137.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWM5eanL9YRFf1PjrmRZoTXXXz7n6w6ksV7c4NFo4FASWE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:53:28.451149Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-1-prod",
-		"gateway_grpc_addr": "35.242.242.224:50051",
-		"gateway_http_addr": "35.242.242.224:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.242.224/tcp/43213\",\"/ip4/10.134.0.3/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWKH2ka7qMGkgQ77dVDLWr8oGanmBJPyyoDi685Sg4Umf9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:53:28.451149Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-3-prod",
-		"gateway_grpc_addr": "34.179.149.174:50051",
-		"gateway_http_addr": "34.179.149.174:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.149.174/tcp/43213\",\"/ip4/10.134.0.5/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWNoT1jDQ7MSTm5eiLpybgPXmC18wjm1fu39P6isKwo7zj\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-3-prod",
-		"gateway_grpc_addr": "34.143.190.198:50051",
-		"gateway_http_addr": "34.143.190.198:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.190.198/tcp/43213\",\"/ip4/10.131.0.5/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWCbHPktaQ5zMBHxBy328pQyJqiQWZJ5pbYkmJRcBhUWYA\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:53:28.451149Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-1-prod",
-		"gateway_grpc_addr": "34.142.155.81:50051",
-		"gateway_http_addr": "34.142.155.81:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.155.81/tcp/43213\",\"/ip4/10.131.0.3/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWPfEH9vGPXWKQjRXS9c96LRL8DuQGgD4hkePve4SWq9dQ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:54:29.975716Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-gateway-eu-frankfurt-node-1",
-		"gateway_grpc_addr": "35.198.87.152:50051",
-		"gateway_http_addr": "35.198.87.152:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.87.152/tcp/43213\",\"/ip4/10.134.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWJjSuPDHEXBR5CwrgokQf3G9bBkCYFLWv2YWGfuzY52aT\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-2-prod",
-		"gateway_grpc_addr": "35.242.218.124:50051",
-		"gateway_http_addr": "35.242.218.124:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.218.124/tcp/43213\",\"/ip4/10.134.0.4/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWGsdCWQE3WbyqJZPbGPTuyWZCF7SeqFxFr6zZ96p5hk9u\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-hermes-us-central-hermes-2-prod",
-		"gateway_grpc_addr": "34.57.232.186:50051",
-		"gateway_http_addr": "34.57.232.186:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.57.232.186/tcp/43213\",\"/ip4/10.137.0.5/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWFaMBciPYfJ6qSR7ov3UfACBdEZQZJpHUwmzq6j9qWLLR\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
+		"last_seen": "2026-05-13T17:53:28.450412Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-hermes-us-central-hermes-3-prod",
@@ -118,17 +19,116 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
+		"last_seen": "2026-05-13T17:53:28.450412Z"
 	},
 	{
-		"gateway_id": "optimum-ethereum-gateway-asia-singapore-node-1",
-		"gateway_grpc_addr": "34.143.202.147:50051",
-		"gateway_http_addr": "34.143.202.147:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.202.147/tcp/43213\",\"/ip4/10.131.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWT1Y4jYUfMpRyK49j2Wh8w9AyoD8GQBQAY1km8q7VvZTP\"}",
+		"gateway_id": "optimum-gateway-us-prod-ethereum",
+		"gateway_grpc_addr": "35.226.166.76:50051",
+		"gateway_http_addr": "35.226.166.76:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.226.166.76/tcp/43213\",\"/ip4/10.137.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWM5eanL9YRFf1PjrmRZoTXXXz7n6w6ksV7c4NFo4FASWE\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T16:58:28.45058Z"
+		"last_seen": "2026-05-13T17:55:10.283342Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-2-prod",
+		"gateway_grpc_addr": "35.242.218.124:50051",
+		"gateway_http_addr": "35.242.218.124:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.218.124/tcp/43213\",\"/ip4/10.134.0.4/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWGsdCWQE3WbyqJZPbGPTuyWZCF7SeqFxFr6zZ96p5hk9u\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:56:59.470188Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-2-prod",
+		"gateway_grpc_addr": "34.126.176.28:50051",
+		"gateway_http_addr": "34.126.176.28:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.176.28/tcp/43213\",\"/ip4/10.131.0.4/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWBvQUVNtqiY5TDXZK79SxxJRJoeafPgqkBw1f9Ctzhrix\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:53:28.450412Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-3-prod",
+		"gateway_grpc_addr": "34.179.149.174:50051",
+		"gateway_http_addr": "34.179.149.174:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.149.174/tcp/43213\",\"/ip4/10.134.0.5/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWNoT1jDQ7MSTm5eiLpybgPXmC18wjm1fu39P6isKwo7zj\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:53:28.450412Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-3-prod",
+		"gateway_grpc_addr": "34.143.190.198:50051",
+		"gateway_http_addr": "34.143.190.198:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.190.198/tcp/43213\",\"/ip4/10.131.0.5/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWCbHPktaQ5zMBHxBy328pQyJqiQWZJ5pbYkmJRcBhUWYA\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:53:28.450412Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-gateway-eu-frankfurt-node-1",
+		"gateway_grpc_addr": "35.198.87.152:50051",
+		"gateway_http_addr": "35.198.87.152:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.87.152/tcp/43213\",\"/ip4/10.134.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWJjSuPDHEXBR5CwrgokQf3G9bBkCYFLWv2YWGfuzY52aT\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:58:28.45113Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-us-central-hermes-2-prod",
+		"gateway_grpc_addr": "34.57.232.186:50051",
+		"gateway_http_addr": "34.57.232.186:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.57.232.186/tcp/43213\",\"/ip4/10.137.0.5/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWFaMBciPYfJ6qSR7ov3UfACBdEZQZJpHUwmzq6j9qWLLR\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:53:28.450412Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-1-prod",
+		"gateway_grpc_addr": "35.242.242.224:50051",
+		"gateway_http_addr": "35.242.242.224:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.242.224/tcp/43213\",\"/ip4/10.134.0.3/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWKH2ka7qMGkgQ77dVDLWr8oGanmBJPyyoDi685Sg4Umf9\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:58:28.45113Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-1-prod",
+		"gateway_grpc_addr": "34.142.155.81:50051",
+		"gateway_http_addr": "34.142.155.81:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.155.81/tcp/43213\",\"/ip4/10.131.0.3/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWPfEH9vGPXWKQjRXS9c96LRL8DuQGgD4hkePve4SWq9dQ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:58:28.45113Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-hermes-us-central-hermes-1-prod",
+		"gateway_grpc_addr": "34.61.200.207:50051",
+		"gateway_http_addr": "34.61.200.207:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.61.200.207/tcp/43213\",\"/ip4/10.137.0.3/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWPz13Yatii7gUb5iPg4PLcrHrmYLRrbrXW9AYGVs3JGi7\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T17:53:28.450412Z"
 	}
 ]
