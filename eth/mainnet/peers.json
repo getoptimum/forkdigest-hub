@@ -8,7 +8,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T02:58:28.450434Z"
+		"last_seen": "2026-05-13T03:58:28.45094Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-1-prod",
@@ -19,7 +19,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T02:53:28.450893Z"
+		"last_seen": "2026-05-13T03:56:36.141172Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-1-prod",
@@ -30,7 +30,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T02:56:21.471924Z"
+		"last_seen": "2026-05-13T03:53:28.450173Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-hermes-us-central-hermes-1-prod",
@@ -41,18 +41,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T02:53:28.450893Z"
-	},
-	{
-		"gateway_id": "optimum-ethereum-gateway-eu-frankfurt-node-1",
-		"gateway_grpc_addr": "35.198.87.152:50051",
-		"gateway_http_addr": "35.198.87.152:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.87.152/tcp/43213\",\"/ip4/10.134.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWJjSuPDHEXBR5CwrgokQf3G9bBkCYFLWv2YWGfuzY52aT\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v0.0.1-rc12",
-		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T02:53:28.450893Z"
+		"last_seen": "2026-05-13T03:56:33.222079Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-gateway-asia-singapore-node-1",
@@ -63,6 +52,17 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T02:58:28.450434Z"
+		"last_seen": "2026-05-13T03:53:28.450173Z"
+	},
+	{
+		"gateway_id": "optimum-ethereum-gateway-eu-frankfurt-node-1",
+		"gateway_grpc_addr": "35.198.87.152:50051",
+		"gateway_http_addr": "35.198.87.152:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.87.152/tcp/43213\",\"/ip4/10.134.0.2/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWJjSuPDHEXBR5CwrgokQf3G9bBkCYFLWv2YWGfuzY52aT\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v0.0.1-rc12",
+		"commit_hash": "8ad6a7c",
+		"last_seen": "2026-05-13T03:53:52.494919Z"
 	}
 ]
