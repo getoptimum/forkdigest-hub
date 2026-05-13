@@ -8,7 +8,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T04:58:28.450518Z"
+		"last_seen": "2026-05-13T05:53:28.450152Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-hermes-eu-frankfurt-hermes-1-prod",
@@ -19,7 +19,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T04:58:28.450518Z"
+		"last_seen": "2026-05-13T05:58:28.4508Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-hermes-asia-singapore-hermes-1-prod",
@@ -30,7 +30,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T04:53:28.450657Z"
+		"last_seen": "2026-05-13T05:53:28.450152Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-gateway-asia-singapore-node-1",
@@ -41,7 +41,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T04:53:28.450657Z"
+		"last_seen": "2026-05-13T05:53:28.450152Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-gateway-eu-frankfurt-node-1",
@@ -52,7 +52,7 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T04:53:28.450657Z"
+		"last_seen": "2026-05-13T05:53:28.450152Z"
 	},
 	{
 		"gateway_id": "optimum-ethereum-hermes-us-central-hermes-1-prod",
@@ -63,6 +63,6 @@
 		"chain_id": "mainnet",
 		"version": "v0.0.1-rc12",
 		"commit_hash": "8ad6a7c",
-		"last_seen": "2026-05-13T04:53:28.450657Z"
+		"last_seen": "2026-05-13T05:53:28.450152Z"
 	}
 ]
