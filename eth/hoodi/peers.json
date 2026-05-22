@@ -1,5 +1,16 @@
 [
 	{
+		"gateway_id": "optimum-dev-hoodi-kubernetes-validator-prysm-canary",
+		"gateway_grpc_addr": "34.138.30.29:50051",
+		"gateway_http_addr": "34.138.30.29:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.138.30.29/tcp/43213\",\"/ip6/2600:1900:4020:77:0:241::/tcp/43213\",\"/ip4/10.0.0.83/tcp/43213\"],\"peerID\":\"12D3KooWNfKuYbiASdsANeXTrV3qmVXs4dLHcBiebAgHojAjP3Ai\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "v0.0.1-rc11",
+		"commit_hash": "e62711c",
+		"last_seen": "2026-05-22T02:34:15.020533Z"
+	},
+	{
 		"gateway_id": "optimum-dev-hoodi-spot-eu-frankfurt-hermes-1",
 		"gateway_grpc_addr": "34.40.119.174:50051",
 		"gateway_http_addr": "34.40.119.174:48123",
@@ -8,73 +19,7 @@
 		"chain_id": "hoodi",
 		"version": "dev",
 		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:29:39.63002Z"
-	},
-	{
-		"gateway_id": "optimum-dev-hoodi-spot-eu-frankfurt-hermes-2",
-		"gateway_grpc_addr": "34.179.221.167:50051",
-		"gateway_http_addr": "34.179.221.167:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.221.167/tcp/43213\",\"/ip4/10.20.15.226/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWG9fV3s1kbJ9V2qJUuFQRd2J5weVD7UmbRbbBMwvMq2nj\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:29:39.63002Z"
-	},
-	{
-		"gateway_id": "optimum-dev-hoodi-spot-us-central-hermes-3",
-		"gateway_grpc_addr": "34.63.56.185:50051",
-		"gateway_http_addr": "34.63.56.185:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.63.56.185/tcp/43213\",\"/ip4/10.30.15.230/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWSgh9ckGndgL3UHviM2F3youpskYsyeoGRFNt8LfS4rLx\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:30:37.760844Z"
-	},
-	{
-		"gateway_id": "optimum-dev-hoodi-spot-asia-singapore-hermes-1",
-		"gateway_grpc_addr": "136.110.56.218:50051",
-		"gateway_http_addr": "136.110.56.218:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.56.218/tcp/43213\",\"/ip4/10.10.0.13/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWQKjdLGDYu1b2p4NJ39iuFsVArXmkrA77co7a2gDD94uv\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:30:37.760844Z"
-	},
-	{
-		"gateway_id": "optimum-dev-hoodi-spot-us-central-hermes-1",
-		"gateway_grpc_addr": "34.60.219.151:50051",
-		"gateway_http_addr": "34.60.219.151:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.60.219.151/tcp/43213\",\"/ip4/10.30.15.220/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWCNmLCvNCPdJFTqvoCV5ZyfvPvYqhYppaJXvxKin47Jyp\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:32:08.067766Z"
-	},
-	{
-		"gateway_id": "optimum-dev-hoodi-kubernetes-validator-prysm",
-		"gateway_grpc_addr": "34.24.145.79:50051",
-		"gateway_http_addr": "34.24.145.79:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.24.145.79/tcp/43213\",\"/ip6/2600:1900:4020:77:0:1f7::/tcp/43213\",\"/ip4/10.0.0.11/tcp/43213\"],\"peerID\":\"12D3KooWGn2XNHsKDEurBWdYpRBu8bAineDST2MNXv5NLE4fkpht\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:32:22.702404Z"
-	},
-	{
-		"gateway_id": "optimum-dev-hoodi-spot-asia-singapore-hermes-2",
-		"gateway_grpc_addr": "35.240.199.78:50051",
-		"gateway_http_addr": "35.240.199.78:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.199.78/tcp/43213\",\"/ip4/10.10.0.11/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWPqN9Dx4Gjq3UMmbHcTHDnudyNG7fsNbbGdrW9dSUsZks\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:30:37.760844Z"
+		"last_seen": "2026-05-22T02:34:15.020533Z"
 	},
 	{
 		"gateway_id": "optimum-dev-hoodi-spot-asia-singapore-hermes-3",
@@ -85,7 +30,29 @@
 		"chain_id": "hoodi",
 		"version": "dev",
 		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:33:11.577565Z"
+		"last_seen": "2026-05-22T02:34:15.020533Z"
+	},
+	{
+		"gateway_id": "optimum-dev-hoodi-spot-us-central-hermes-3",
+		"gateway_grpc_addr": "34.63.56.185:50051",
+		"gateway_http_addr": "34.63.56.185:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.63.56.185/tcp/43213\",\"/ip4/10.30.15.230/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWSgh9ckGndgL3UHviM2F3youpskYsyeoGRFNt8LfS4rLx\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1821643",
+		"last_seen": "2026-05-22T02:34:15.020533Z"
+	},
+	{
+		"gateway_id": "optimum-dev-hoodi-spot-us-central-hermes-2",
+		"gateway_grpc_addr": "136.112.19.204:50051",
+		"gateway_http_addr": "136.112.19.204:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.112.19.204/tcp/43213\",\"/ip4/10.30.15.226/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWHDD891i7rkKTwxja5CZ7fvtCBiStMvnZLMxpwPiFKzW6\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1821643",
+		"last_seen": "2026-05-22T02:34:15.020533Z"
 	},
 	{
 		"gateway_id": "optimum-dev-hoodi-spot-eu-frankfurt-hermes-3",
@@ -99,25 +66,58 @@
 		"last_seen": "2026-05-22T02:34:15.020533Z"
 	},
 	{
-		"gateway_id": "optimum-dev-hoodi-kubernetes-validator-prysm-canary",
-		"gateway_grpc_addr": "34.138.30.29:50051",
-		"gateway_http_addr": "34.138.30.29:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.138.30.29/tcp/43213\",\"/ip6/2600:1900:4020:77:0:241::/tcp/43213\",\"/ip4/10.0.0.83/tcp/43213\"],\"peerID\":\"12D3KooWNfKuYbiASdsANeXTrV3qmVXs4dLHcBiebAgHojAjP3Ai\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "v0.0.1-rc11",
-		"commit_hash": "e62711c",
-		"last_seen": "2026-05-22T02:29:15.021102Z"
-	},
-	{
-		"gateway_id": "optimum-dev-hoodi-spot-us-central-hermes-2",
-		"gateway_grpc_addr": "136.112.19.204:50051",
-		"gateway_http_addr": "136.112.19.204:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.112.19.204/tcp/43213\",\"/ip4/10.30.15.226/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWHDD891i7rkKTwxja5CZ7fvtCBiStMvnZLMxpwPiFKzW6\"}",
+		"gateway_id": "optimum-dev-hoodi-spot-us-central-hermes-1",
+		"gateway_grpc_addr": "34.60.219.151:50051",
+		"gateway_http_addr": "34.60.219.151:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.60.219.151/tcp/43213\",\"/ip4/10.30.15.220/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWCNmLCvNCPdJFTqvoCV5ZyfvPvYqhYppaJXvxKin47Jyp\"}",
 		"cluster_id": "optimum_hoodi_v0_2",
 		"chain_id": "hoodi",
 		"version": "dev",
 		"commit_hash": "1821643",
-		"last_seen": "2026-05-22T02:29:15.021102Z"
+		"last_seen": "2026-05-22T02:34:39.629955Z"
+	},
+	{
+		"gateway_id": "optimum-dev-hoodi-spot-eu-frankfurt-hermes-2",
+		"gateway_grpc_addr": "34.179.221.167:50051",
+		"gateway_http_addr": "34.179.221.167:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.221.167/tcp/43213\",\"/ip4/10.20.15.226/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWG9fV3s1kbJ9V2qJUuFQRd2J5weVD7UmbRbbBMwvMq2nj\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1821643",
+		"last_seen": "2026-05-22T02:29:39.63002Z"
+	},
+	{
+		"gateway_id": "optimum-dev-hoodi-spot-asia-singapore-hermes-1",
+		"gateway_grpc_addr": "136.110.56.218:50051",
+		"gateway_http_addr": "136.110.56.218:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.56.218/tcp/43213\",\"/ip4/10.10.0.13/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWQKjdLGDYu1b2p4NJ39iuFsVArXmkrA77co7a2gDD94uv\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1821643",
+		"last_seen": "2026-05-22T02:30:37.760844Z"
+	},
+	{
+		"gateway_id": "optimum-dev-hoodi-kubernetes-validator-prysm",
+		"gateway_grpc_addr": "34.24.145.79:50051",
+		"gateway_http_addr": "34.24.145.79:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.24.145.79/tcp/43213\",\"/ip6/2600:1900:4020:77:0:1f7::/tcp/43213\",\"/ip4/10.0.0.11/tcp/43213\"],\"peerID\":\"12D3KooWGn2XNHsKDEurBWdYpRBu8bAineDST2MNXv5NLE4fkpht\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1821643",
+		"last_seen": "2026-05-22T02:34:15.020533Z"
+	},
+	{
+		"gateway_id": "optimum-dev-hoodi-spot-asia-singapore-hermes-2",
+		"gateway_grpc_addr": "35.240.199.78:50051",
+		"gateway_http_addr": "35.240.199.78:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.199.78/tcp/43213\",\"/ip4/10.10.0.11/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWPqN9Dx4Gjq3UMmbHcTHDnudyNG7fsNbbGdrW9dSUsZks\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1821643",
+		"last_seen": "2026-05-22T02:30:37.760844Z"
 	}
 ]
