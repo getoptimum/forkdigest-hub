@@ -1,11 +1,14 @@
-[
-  "b5303f2a",
-  "afcaaba0",
-  "4a26c58b",
-  "bba4da96",
-  "бa95a1a9",
-  "ad532ceb",
-  "cc2c5cdb",
-  "cb0d1acc",
-  "8c9f62fe"
-]
+{
+  "forks": [
+    "b5303f2a",
+    "afcaaba0",
+    "4a26c58b",
+    "bba4da96",
+    "бa95a1a9",
+    "ad532ceb",
+    "cc2c5cdb",
+    "cb0d1acc",
+    "8c9f62fe"
+  ],
+  "future_fork": ""
+}
