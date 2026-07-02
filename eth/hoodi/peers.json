@@ -7,7 +7,7 @@
 		"chain_id": "hoodi",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-07-02T23:40:39.129767Z"
+		"last_seen": "2026-07-02T23:45:39.129351Z"
 	},
 	{
 		"gateway_id": "ag_e86b844782201493fce76bc20a44f716",
@@ -17,7 +17,7 @@
 		"chain_id": "hoodi",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-07-02T23:37:30.712684Z"
+		"last_seen": "2026-07-02T23:43:20.89774Z"
 	},
 	{
 		"gateway_id": "ag_607b5f2e803df651b867c467594886ce",
@@ -27,6 +27,6 @@
 		"chain_id": "hoodi",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-07-02T23:42:30.71206Z"
+		"last_seen": "2026-07-02T23:44:22.402855Z"
 	}
 ]
