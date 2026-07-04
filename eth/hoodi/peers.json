@@ -1,1 +1,11 @@
-[]
+[
+	{
+		"gateway_id": "ag_c39e2ff4e05bc614f17dec1fff2018f3",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/64.236.134.16/tcp/33213\",\"/ip4/172.16.0.6/tcp/33213\"],\"peerID\":\"16Uiu2HAm1yN5bQ4kMVLw8sh43Fya2kdvXocZosau5jC5bYri1YPh\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "bd59e94",
+		"last_seen": "2026-07-04T13:00:10.298629Z"
+	}
+]
