@@ -1,1 +1,11 @@
-[]
+[
+	{
+		"gateway_id": "ag_c39e2ff4e05bc614f17dec1fff2018f3",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/203.0.113.5/tcp/33213\"],\"peerID\":\"12D3KooWProbeProbeProbeProbeProbeProbeProbeProbe\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "v1.0.2",
+		"commit_hash": "probe000",
+		"last_seen": "2026-07-06T08:03:51.363412Z"
+	}
+]
