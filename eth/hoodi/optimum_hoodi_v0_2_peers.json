@@ -1,5 +1,32 @@
 [
 	{
+		"gateway_id": "ag_f127674b7f609e4e7e98de9b6c58180a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.199.78/tcp/33213\",\"/ip4/10.10.0.11/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAkwtKJoemVqVBo8NXibmgHJGQXuXZNZwBPpMnGAurKYe5A\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1d71eaf",
+		"last_seen": "2026-07-21T11:43:45.265364Z"
+	},
+	{
+		"gateway_id": "ag_c39e2ff4e05bc614f17dec1fff2018f3",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.247.169/tcp/33213\",\"/ip4/172.16.0.6/tcp/33213\"],\"peerID\":\"16Uiu2HAmM72ZN6dNBJ6vYGFt2egrY6MUorh8NNiy8tEjtNtohfPv\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1d71eaf",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
+	},
+	{
+		"gateway_id": "ag_1afb855b5b7c94e7a02def64b14e5213",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.56.218/tcp/33213\",\"/ip4/10.10.0.13/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmPXR6uKb3CprNMX719mMSRKcA3GQv8CHhJ7gYCNDgz2fo\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1d71eaf",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
+	},
+	{
 		"gateway_id": "ag_3bc7399f894361210a21e96a01eead51",
 		"mump2p_addr": "{\"addrs\":[\"/ip4/34.40.119.174/tcp/33213\",\"/ip4/10.20.0.29/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmKfiQpLnLsFy1fhMHVbeyMZpXLRVw5T34eJNY9MLZCDRu\"}",
 		"cluster_id": "optimum_hoodi_v0_2",
@@ -9,17 +36,45 @@
 		"last_seen": "2026-07-21T11:45:54.094466Z"
 	},
 	{
-		"gateway_id": "ag_10ee1b6ba4d5a2ed44b7652f08abb357",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.112.19.204/tcp/33213\",\"/ip4/10.30.0.39/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAkzuXDesqvXsTzYk561wQk2SAhFpn8HnH3phYwGxPBApsm\"}",
+		"gateway_id": "ag_4315659503f22ff4e24bdd06dba464df",
+		"gateway_http_addr": "34.60.219.151:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.60.219.151/tcp/43213\",\"/ip4/10.30.0.21/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWBjxx64FKv6yfofWLctna2XW5VsdtpDJFhigpuS7X4h93\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
+	},
+	{
+		"gateway_id": "ag_77a8d69adac197c6bd3c3134f87ad28f",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.246.162/tcp/33213\",\"/ip4/172.16.0.7/tcp/33213\"],\"peerID\":\"16Uiu2HAmCY9qWZz6aBui5rmsSSLkT3JR1NHRkyft7M3ufSNH2aPQ\"}",
 		"cluster_id": "optimum_hoodi_v0_2",
 		"chain_id": "hoodi",
 		"version": "dev",
-		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
+		"commit_hash": "b742cbc",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
+	},
+	{
+		"gateway_id": "ag_1aa6d4218fab864659ab33486f4a20b3",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.148.53/tcp/33213\",\"/ip4/10.10.0.12/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmFy3tsnAsSuGtECA31S5RSMv47h39NvsQUNEUYwKUGtgS\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "b742cbc",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
 	},
 	{
 		"gateway_id": "ag_f405c2f9b2b8c21be0c554d6724c7625",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.247.169/tcp/33213\",\"/ip4/172.16.0.8/tcp/33213\"],\"peerID\":\"16Uiu2HAmLVqcnEF39xDuJs2H9yiX1HxmcJ1WxXVFAD2DZFXVHGTm\"}",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.246.162/tcp/33213\",\"/ip4/172.16.0.8/tcp/33213\"],\"peerID\":\"16Uiu2HAm3fvRekUfe47wMSH3gpocr9f3domDKkG6q3eLtDoMJQ2Q\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "b742cbc",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
+	},
+	{
+		"gateway_id": "ag_2c1b6b9277498c74d0d3da1d839f1005",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.247.169/tcp/33213\",\"/ip4/172.16.0.9/tcp/33213\"],\"peerID\":\"16Uiu2HAmU9WrzJgrWHPobaqTV3LoKWft2q1C12mKBCQ9feCKWi4g\"}",
 		"cluster_id": "optimum_hoodi_v0_2",
 		"chain_id": "hoodi",
 		"version": "dev",
@@ -28,12 +83,12 @@
 	},
 	{
 		"gateway_id": "ag_7bb5575f6d228253921568278f1169d2",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.63.56.185/tcp/33213\",\"/ip4/10.30.0.44/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmR4Y3XuXFFGiTdYNE9E4A3SXBZtoBu2CUR4y2tUk627oe\"}",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.63.56.185/tcp/33213\",\"/ip4/10.30.0.44/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmAootU2gsD3LCkaepqYeQP7Z5ec7iCdXYXGEFaZ7F6Uwz\"}",
 		"cluster_id": "optimum_hoodi_v0_2",
 		"chain_id": "hoodi",
 		"version": "dev",
-		"commit_hash": "b742cbc",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
+		"commit_hash": "1d71eaf",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
 	},
 	{
 		"gateway_id": "ag_82f382198f6cb48af7c71b9fbb7fdba4",
@@ -42,7 +97,7 @@
 		"chain_id": "hoodi",
 		"version": "dev",
 		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:46:20.947803Z"
+		"last_seen": "2026-07-21T11:47:23.000826Z"
 	},
 	{
 		"gateway_id": "ag_5529d13c28ff0928ad37a9e34e17ded7",
@@ -54,81 +109,17 @@
 		"last_seen": "2026-07-21T11:43:45.265364Z"
 	},
 	{
-		"gateway_id": "ag_4315659503f22ff4e24bdd06dba464df",
-		"gateway_http_addr": "34.60.219.151:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.60.219.151/tcp/43213\",\"/ip4/10.30.0.21/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\"],\"peerID\":\"12D3KooWBjxx64FKv6yfofWLctna2XW5VsdtpDJFhigpuS7X4h93\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
-	},
-	{
 		"gateway_id": "ag_4bed662cc61340a85f748e97cc5be22d",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.126.129/tcp/33213\",\"/ip4/10.20.0.17/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmL7FKJorovmBk3EkfD5bEmgQszsCrba3bU5RWsWqTbM73\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
-	},
-	{
-		"gateway_id": "ag_4991e0ec04503e2f149ef25c4dc2e51c",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.73.211.143/tcp/33213\",\"/ip6/2600:1900:4020:77:0:390::/tcp/33213\",\"/ip4/10.0.0.100/tcp/33213\",\"/ip4/10.1.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmUcq6djfiRZG7HfmyBTW3cKS3NdD6WqxxrgQPBJuuStn8\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
-	},
-	{
-		"gateway_id": "ag_1aa6d4218fab864659ab33486f4a20b3",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.148.53/tcp/33213\",\"/ip4/10.10.0.12/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmFy3tsnAsSuGtECA31S5RSMv47h39NvsQUNEUYwKUGtgS\"}",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.126.129/tcp/33213\",\"/ip4/10.20.0.17/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmJEVRLxAfTrWqzV9tD1SLrQsdMj6zdbg9UpXKPAQuX78y\"}",
 		"cluster_id": "optimum_hoodi_v0_2",
 		"chain_id": "hoodi",
 		"version": "dev",
 		"commit_hash": "b742cbc",
-		"last_seen": "2026-07-21T11:42:19.957227Z"
+		"last_seen": "2026-07-21T11:47:19.958142Z"
 	},
 	{
-		"gateway_id": "ag_1afb855b5b7c94e7a02def64b14e5213",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.56.218/tcp/33213\",\"/ip4/10.10.0.13/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmPXR6uKb3CprNMX719mMSRKcA3GQv8CHhJ7gYCNDgz2fo\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:52.056514Z"
-	},
-	{
-		"gateway_id": "ag_c39e2ff4e05bc614f17dec1fff2018f3",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.247.169/tcp/33213\",\"/ip4/172.16.0.6/tcp/33213\"],\"peerID\":\"16Uiu2HAmM72ZN6dNBJ6vYGFt2egrY6MUorh8NNiy8tEjtNtohfPv\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:42:19.957227Z"
-	},
-	{
-		"gateway_id": "ag_f127674b7f609e4e7e98de9b6c58180a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.199.78/tcp/33213\",\"/ip4/10.10.0.11/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAkwtKJoemVqVBo8NXibmgHJGQXuXZNZwBPpMnGAurKYe5A\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
-	},
-	{
-		"gateway_id": "ag_77a8d69adac197c6bd3c3134f87ad28f",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.247.169/tcp/33213\",\"/ip4/172.16.0.7/tcp/33213\"],\"peerID\":\"16Uiu2HAmT4S17v8nthvuPMGzoBbX3ANE6zvrFKg5RzSAg13xriMU\"}",
-		"cluster_id": "optimum_hoodi_v0_2",
-		"chain_id": "hoodi",
-		"version": "dev",
-		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
-	},
-	{
-		"gateway_id": "ag_2c1b6b9277498c74d0d3da1d839f1005",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/192.240.247.169/tcp/33213\",\"/ip4/172.16.0.9/tcp/33213\"],\"peerID\":\"16Uiu2HAmU9WrzJgrWHPobaqTV3LoKWft2q1C12mKBCQ9feCKWi4g\"}",
+		"gateway_id": "ag_10ee1b6ba4d5a2ed44b7652f08abb357",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.112.19.204/tcp/33213\",\"/ip4/10.30.0.39/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAkzuXDesqvXsTzYk561wQk2SAhFpn8HnH3phYwGxPBApsm\"}",
 		"cluster_id": "optimum_hoodi_v0_2",
 		"chain_id": "hoodi",
 		"version": "dev",
@@ -142,7 +133,16 @@
 		"chain_id": "hoodi",
 		"version": "dev",
 		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
+		"last_seen": "2026-07-21T11:47:37.423091Z"
+	},
+	{
+		"gateway_id": "ag_4991e0ec04503e2f149ef25c4dc2e51c",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.73.211.143/tcp/33213\",\"/ip6/2600:1900:4020:77:0:390::/tcp/33213\",\"/ip4/10.0.0.100/tcp/33213\",\"/ip4/10.1.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmUcq6djfiRZG7HfmyBTW3cKS3NdD6WqxxrgQPBJuuStn8\"}",
+		"cluster_id": "optimum_hoodi_v0_2",
+		"chain_id": "hoodi",
+		"version": "dev",
+		"commit_hash": "1d71eaf",
+		"last_seen": "2026-07-21T11:47:19.958142Z"
 	},
 	{
 		"gateway_id": "ag_6841b594084b9f7db22d0b785004eb26",
@@ -151,6 +151,6 @@
 		"chain_id": "hoodi",
 		"version": "dev",
 		"commit_hash": "1d71eaf",
-		"last_seen": "2026-07-21T11:43:45.265364Z"
+		"last_seen": "2026-07-21T11:47:19.958142Z"
 	}
 ]
