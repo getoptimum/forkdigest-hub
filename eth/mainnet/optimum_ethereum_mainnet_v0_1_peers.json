@@ -1,113 +1,21 @@
 [
 	{
-		"gateway_id": "ag_68918e5b7dbd4f62752d6a08619f61f8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.15.69/udp/33213/quic-v1\",\"/ip4/10.131.0.41/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm8y1aFdLwCGtDyBJZAbgEjG2J223BwzpfH4GdygWMshs5\"}",
+		"gateway_id": "ag_af2c2f1a5f1ea2c85556026d24d700eb",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.210.158/udp/33213/quic-v1\",\"/ip4/10.131.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEJcYKKrqRXvFovVUxdKHP5WrVJCLWeG7xk6pkCmWvSA9\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
+		"last_seen": "2026-08-08T00:58:00.807984Z"
 	},
 	{
-		"gateway_id": "ag_cdce1b69dbb43ff07e4e958dfa7e3bb6",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.93.71/udp/33213/quic-v1\",\"/ip4/10.134.0.54/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmD78j1Ej5Kri8mpc8xUbVFH2wriW4DpJWwqjHYpcHvaqu\"}",
+		"gateway_id": "ag_2337c13f8ce9ad15d6c06acebf1cc490",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.208.231/udp/33213/quic-v1\",\"/ip4/10.131.0.53/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzgqe95vBVooNKs9mfYHEUvTjxhSNxjYohiWYqiukckB9\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_bd36ec7b5b40a9e09276b071ef07593c",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.69.173/udp/33213/quic-v1\",\"/ip4/10.134.0.27/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2t1Yp4i6iqwMx3qxuDFVrCXcgou46vtvomvdTEVuLjcK\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_fbbc951e2bd7a21f22f592fdeacf77b8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.130.226/udp/33213/quic-v1\",\"/ip4/10.131.0.26/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmDKPSM6XeE9Z1N2GuMzAZ1FsP8BXooFzntAvzZDi5iF8G\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_13809f363d3ab5fe07fcfa6f23498986",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.188.227/udp/33213/quic-v1\",\"/ip4/10.131.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAAP6zn2dNSAeox8dx8fjFpqh9WvMeDjyenrhTvWwMXne\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_b53f6661c9a957b051bb06dadc6e0142",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.104.197.78/udp/33213/quic-v1\",\"/ip4/10.149.0.5/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm35DYV54fqgZDToUEBm1nHYQUU3w1TSNuyTo4bXN1NnSw\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_f28b9de129286cf18e186b735fb7960f",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.34.8.27/udp/33213/quic-v1\",\"/ip4/10.176.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEveK9KwVtDQHiF4srCvfnfGdo49jL4roPmtFUtBa7d66\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_4a31bfe2ccaf6c9c4e3abbeb029883a3",
-		"gateway_http_addr": "57.129.146.225:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/57.129.146.225/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmAFW75erZhe5BVNEz9MCaxv7G5LiM6tgKeKVr66Pr4fD7\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_d0412b563e22813d0a59a38452a9f8d9",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.245.159.79/udp/33213/quic-v1\",\"/ip4/10.161.0.43/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQpa25cC6j6WyVYk2KQwC8apSU853Hy53WfdU27qaKDkK\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_a05db4cd13fb5abb6ff9b121799ba881",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.163.75/udp/33213/quic-v1\",\"/ip4/10.131.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFqv6Tsh3njT1T6KUy9KvKL1og1Lc3H59stt7rSvzMC32\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:47.205327Z"
-	},
-	{
-		"gateway_id": "ag_66da1365b88089781fbf65029db1f606",
-		"gateway_http_addr": "35.206.253.28:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.206.253.28/tcp/43213\",\"/ip4/172.18.0.10/tcp/43213\"],\"peerID\":\"16Uiu2HAmCiegAUfdWtaFg2MjLBMcAhDTgKaZChKMEVy4iUUTKZso\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_f9e1b2b63ddc0568f106bc05060b9301",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.242.224/udp/33213/quic-v1\",\"/ip4/10.134.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLjainjEmVLq22owPQpYoB3qT4cYwrXXa7iJ6m33nsGTT\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:32.701273Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
 		"gateway_id": "ag_a23966a863b80ba01229ebbe0b296708",
@@ -116,53 +24,187 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T01:00:04.336635Z"
 	},
 	{
-		"gateway_id": "ag_cfcd3842788d5d84822f8443e78a61f9",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.181.214.80/udp/33213/quic-v1\",\"/ip4/10.161.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmS78dmF3SVFeJvYzKHAqfe72TYHGhv99NS2mK2MRtzBsy\"}",
+		"gateway_id": "ag_405b7419317da4eedebbe9fa6abfb61a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.133.48/udp/33213/quic-v1\",\"/ip4/10.131.0.56/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmF5FKKQmpoHtYD8YBuKHoG3kEX91GRZcXXCxty5oTBUg2\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:34.680958Z"
+		"last_seen": "2026-08-08T00:58:00.807984Z"
 	},
 	{
-		"gateway_id": "ag_45477ce85c0b77015dc62543151ea4f6",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.236.250/udp/33213/quic-v1\",\"/ip4/10.131.0.30/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmH3RKumenrrxnnyXBqBcCa4s5atUg3oWXLc1R7KVi3V3Y\"}",
+		"gateway_id": "ag_259958c9c10f735d0b7dd60b4cd2750e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.188.225/udp/33213/quic-v1\",\"/ip4/10.131.0.29/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBZKxBvgDQsc1QRmH4uY39aHjK6ohDXHkSixsvEVQ74H9\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_0e5440398baa352eb6e18077b32312cf",
-		"gateway_http_addr": "35.240.116.118:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.116.118/tcp/43213\",\"/ip4/172.18.0.10/tcp/43213\"],\"peerID\":\"16Uiu2HAmNEMYEVRXv87YewxNuE4zvraBEUs6bBqEHFNKw5nWq98D\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_55174b21b6bd9545448b85bc89df482c",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.61.200.207/udp/33213/quic-v1\",\"/ip4/10.137.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmT81L45sQs6iriKYS42PQM6fLetuwEg3GcvYfsjAULrGy\"}",
+		"gateway_id": "ag_84165b034fe95d67546716abb16445c8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.12.77/udp/33213/quic-v1\",\"/ip4/10.131.0.31/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAD1eXk7qJphFhCxHS3KGACsgmW4oEXrgRML2WqnE3788\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
+		"last_seen": "2026-08-08T00:57:00.994064Z"
 	},
 	{
-		"gateway_id": "ag_a06e6d0fd90e7d0545884024b5cbf818",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.165.107/udp/33213/quic-v1\",\"/ip4/10.134.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFgeri2bHooDm747FxWL4vD8NgdGGHTreypY2makfss9x\"}",
+		"gateway_id": "ag_512ee19d4f558b617ffc3d35b41db57b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.235.144/udp/33213/quic-v1\",\"/ip4/10.134.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2YsPXmER1gwcvEVPP9hbkfmfdJhFwuGhbUvBtVdGmurn\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_ce9dd5b1b48a89b060daa3a7cab0757a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.202.147/udp/33213/quic-v1\",\"/ip4/10.131.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm12axaoLtXjxzgrggSrHoWk6CtAvt3Jp1NCV4qVFMZGmg\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_5c957d8c64eaf16a0638a7a6e69840ca",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.27.132/udp/33213/quic-v1\",\"/ip4/10.134.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMPECYDsiU7Sc8jbcqRtN3eEgtMkVdok823JUjkd1kpw2\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_0fdc5d6cac42aca78f5ad0e7fc3ac104",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.146.105/udp/33213/quic-v1\",\"/ip4/10.161.0.45/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm46AjBsWHC9boHDUypp3zHoZkqoZEFXugaPjWKZA4Looz\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_ecc9e2bc3be1b5e86c9705841e2e28c3",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.64.61.151/udp/33213/quic-v1\",\"/ip4/10.152.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFPmVSRnEhzP7hgVJ4CLV17o5rM7WZoDiDUYd8MrvudzM\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_c01d4868f78d06e07302db608e4411d6",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.145.167/udp/33213/quic-v1\",\"/ip4/10.134.0.58/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMicL7rP37Fy4x1RHAELwsLyAVBV1pTM2CFaf94TXtocD\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:07.449406Z"
+	},
+	{
+		"gateway_id": "ag_a3e21314f5f295f69433021deb55385d",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.187.223/udp/33213/quic-v1\",\"/ip4/10.134.0.52/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5qkup17jGK5TaCudty2kUu3oGnZ4yKqk3dD5HJ8ozbza\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_21ce57d4fa5aefb801250ad1aa46084d",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.21.95/udp/33213/quic-v1\",\"/ip4/10.134.15.192/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmUxRDqzGppeaCzeMaWy8mH3PsHYwA9VhHjmjcvsSC7RQM\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_4bb3918cb7aa14d72a3ce7fe62f23fff",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.197.144.140/udp/33213/quic-v1\",\"/ip4/10.131.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwGx6o1t9Nr7yCfz68VmYGwsnxHG8qqVTqkdqpJ5CsVnt\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:29.663529Z"
+	},
+	{
+		"gateway_id": "ag_e4a69e016d2f0878860039651896af4e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.115.32/udp/33213/quic-v1\",\"/ip4/10.161.0.27/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkuRr3JQ3RJrYpKStBr4F2e7ETooGmhx1A5HKoAdhAhBKG\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_e460b2cb8fe616d9f7001fd0492ac2ac",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.226.166.76/udp/33213/quic-v1\",\"/ip4/10.137.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkv9ECPP599dgCghW8t9cJtjta1ru6Mgs1TKgNAY2RTzVE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_7ba450c1354a4b954a0c6f196a5c898e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.175.74/udp/33213/quic-v1\",\"/ip4/10.134.0.8/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5kZekyCuv1SP2DasKZP6k9o3BA88BsfobYVwT564Puww\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_3f390c88a6e025334b1f12346eddd917",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.249.48/udp/33213/quic-v1\",\"/ip4/10.131.0.12/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyM8TsPX1GVomDFD422N14pVxuU35JS2NfHthexF6ED9Z\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:00:37.270781Z"
+	},
+	{
+		"gateway_id": "ag_d98ea503001aa12dd081822423f9b2e2",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.119.188/udp/33213/quic-v1\",\"/ip4/10.134.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5drbbXvjmARJXyira3xGxXt7VFPmonK87GACAT1txnse\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a6cbcf981d4022b5357325f2fc5011f5",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.92.151/udp/33213/quic-v1\",\"/ip4/10.161.0.41/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmNeSBvX7Auukf8VuUJZj1P6bQvm3rCj1ck4KeSbcQF3ik\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a893187e6a7a5809e82831b17089455a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.70.164/udp/33213/quic-v1\",\"/ip4/10.131.0.39/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5fDD6MvY2VYYfm4v34dmf91q3PMUCTDvvzVWXCL1182v\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:34.409038Z"
+	},
+	{
+		"gateway_id": "ag_2a11a22db09cccfa4e185deb8c5c7491",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.234.127.248/udp/33213/quic-v1\",\"/ip4/10.134.0.25/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4woXWLZdXm2kBS4p2McagogewxMuWQH8WNhn3LV4tuQM\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
 	},
 	{
 		"gateway_id": "ag_4c339dbc49a00ae80ca4a26830774dbf",
@@ -172,244 +214,43 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_0e3f5570ce7197df590af5910f1b327b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.217.76/udp/33213/quic-v1\",\"/ip4/10.131.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4mrKZmszeqZcbxedJGYHQYpfWWKJxHBu8K6osuFR99NE\"}",
+		"gateway_id": "ag_b8b7659f2b6d5b8ab5238ee63386e0ca",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.190.198/udp/33213/quic-v1\",\"/ip4/10.131.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmHyPyKq7rF3vvHf1S1M1U44xSWhpntyjbMZT2RhZTBCff\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
+		"last_seen": "2026-08-08T00:57:00.994064Z"
 	},
 	{
-		"gateway_id": "ag_7862fd758ae90c1c2bd32accf5bd7c6c",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.145.242.159/udp/33213/quic-v1\",\"/ip4/10.161.0.25/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSXiBc5L28hrsuiLcN1SeJ3nsK7EKYspxR881WPUsGUBE\"}",
+		"gateway_id": "ag_77d204a35c39a2aa1b496330789c9340",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.19.198.0/udp/33213/quic-v1\",\"/ip4/10.167.15.196/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmUSmfY2QNqPYRZfoS1gfW5Ce7b46KSP4Pc9cJmvwJ57PM\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_35aef16132f8faa53b3183a41503aa55",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.152.5/udp/33213/quic-v1\",\"/ip4/10.131.0.24/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm548BXxkn9UdsTSuWif282KDeqdQw3CKaH5MmWf2683Rz\"}",
+		"gateway_id": "ag_067e50853a753f96b59ac7b3f556068e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.46.107/udp/33213/quic-v1\",\"/ip4/10.161.0.11/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm8gU7pprFCudeEj3ruiTi6Yuy9AQWTUGiVEoWXNopN971\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
+		"last_seen": "2026-08-08T01:00:01.555935Z"
 	},
 	{
-		"gateway_id": "ag_db8bf24a29236484e1176ca7fbe4150c",
-		"gateway_http_addr": "57.129.90.166:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/57.129.90.166/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmSTENbYLAyRpCPe67GdvtScBn4FWY4hAFTLYD2jq4T184\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_2a11a22db09cccfa4e185deb8c5c7491",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.234.127.248/udp/33213/quic-v1\",\"/ip4/10.134.0.25/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4woXWLZdXm2kBS4p2McagogewxMuWQH8WNhn3LV4tuQM\"}",
+		"gateway_id": "ag_d6d70a492eb4e5bfaefae04109a8a0f6",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.117.148.12/udp/33213/quic-v1\",\"/ip4/10.140.0.12/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvzjakdHbsJrJm3N2m3CGqnymq7C5pXNR5GRsoxLstsqE\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:33.821449Z"
-	},
-	{
-		"gateway_id": "ag_a3e21314f5f295f69433021deb55385d",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.187.223/udp/33213/quic-v1\",\"/ip4/10.134.0.52/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5qkup17jGK5TaCudty2kUu3oGnZ4yKqk3dD5HJ8ozbza\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:51.793704Z"
-	},
-	{
-		"gateway_id": "ag_ef279fa2be9e240fd2d6af78642bc0a2",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.210.16/udp/33213/quic-v1\",\"/ip4/10.131.0.32/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmHkxmmusSfzJhP7rtqo7iZBvAYKPYV5rPMMS5HyWaKy39\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_512ee19d4f558b617ffc3d35b41db57b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.235.144/udp/33213/quic-v1\",\"/ip4/10.134.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2YsPXmER1gwcvEVPP9hbkfmfdJhFwuGhbUvBtVdGmurn\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:25.260399Z"
-	},
-	{
-		"gateway_id": "ag_59413e6dd647f9ce1cad592c9a6f6ad6",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.180.12.52/udp/33213/quic-v1\",\"/ip4/10.182.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm1LYb2rWG3nZkTohCZ1ZyYYvPZFXcKwUuQwyf6wvCUcph\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_6c3afe42e59cfe30ac3a3bce514625b0",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.11.84.199/udp/33213/quic-v1\",\"/ip4/10.161.0.30/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkz5XokMjkvaWQ227zQDEGuHrqqRvCt93fZk542J1Phdet\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_557a1aafd2684a0e2d642e848a94f743",
-		"gateway_http_addr": "72.46.84.75:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/72.46.84.75/tcp/43213\",\"/ip6/2605:6441:2001:37:ae1f:6bff:fef1:21/tcp/43213\",\"/ip4/100.64.80.96/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.18.0.1/tcp/43213\",\"/ip4/172.19.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmHKSxGLuXZrQud3wqcKWnBW8at3q1ekVJaTp3d6DHo7XM\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_0b71569bbd7c0260d07ac13054f7928f",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.176.28/udp/33213/quic-v1\",\"/ip4/10.131.0.13/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm38K7479CqfHNVhJh46sbM48umNeiqsLmaQMj5VwCSAFz\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_f666037cad2df68a601a4d31678c613c",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.144.64/udp/33213/quic-v1\",\"/ip4/10.134.15.200/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmRit3H9A9MfThaPbmFv7AwqxdoMupuGqqBYKpaFxmjpYv\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_58d64b68bb43879782a6d28d4db8f84a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.85.156.247/udp/33213/quic-v1\",\"/ip4/10.161.0.13/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGhWknV1YXq7Mfnohjh1yt6ykW3gt7kW4V6akJVKtD9ap\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_a15bbf94546386e6f1a509956254a6fe",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.16.113/udp/33213/quic-v1\",\"/ip4/10.131.0.38/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm1ZBUkFLeLXvyaEaz67VRhexwJkfGjpX3CRbxcGMpbqUE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_35dc3f4733eae4964467c887c729bcd4",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.85.180/udp/33213/quic-v1\",\"/ip4/10.131.0.49/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzmGi26rge7XamxS21n9Fou1dmq6Vp5SYeeTnA3s1TeBQ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_ce9dd5b1b48a89b060daa3a7cab0757a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.202.147/udp/33213/quic-v1\",\"/ip4/10.131.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm12axaoLtXjxzgrggSrHoWk6CtAvt3Jp1NCV4qVFMZGmg\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_3140d0b04b3b90b03cc15f56f97848ef",
-		"gateway_http_addr": "57.129.90.170:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/57.129.90.170/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAm9U1xVXGbbHn7oS7AjNCqhGwQ7pGB1s4XH54aHUJNS9sm\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_8f4e4403654c6c5af62a52719a9013cd",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.88.86.141/udp/33213/quic-v1\",\"/ip4/10.170.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3nf26i2RMiXnbJgUB2zHguYPPEFmiN5zKU3W4iBVaHfN\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:10:04.671482Z"
-	},
-	{
-		"gateway_id": "ag_d75727839c7ba56097cf99f231622bdc",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.87.152/udp/33213/quic-v1\",\"/ip4/10.134.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGqN7jJZhHLyCuTtVziko7AexvAJcy3gja8zt5XxicPdB\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_b3cb363db0040f1ee07abe7f70b5fe24",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.27.108/udp/33213/quic-v1\",\"/ip4/10.134.15.201/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3LXgaRx7jA8Gi8Ye6jN14LU7RBePRBpctnVjDqGgqLmS\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_e9aee26ea4198fcbc0da6e1101b41bd7",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.124.42/udp/33213/quic-v1\",\"/ip4/10.131.0.18/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmHi7LAyPLmUPCzWySoiptmv9GktE8SKmDGuELYsFoPk3f\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:19.176202Z"
-	},
-	{
-		"gateway_id": "ag_69dbee921d4dc134a53eee04c8c973a0",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.227.95.199/udp/33213/quic-v1\",\"/ip4/10.128.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm6WFsAfCsErkHytTKvgJM5UFy4cnseMkisdY9SAquvLoW\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:10:04.335745Z"
-	},
-	{
-		"gateway_id": "ag_5c957d8c64eaf16a0638a7a6e69840ca",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.27.132/udp/33213/quic-v1\",\"/ip4/10.134.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMPECYDsiU7Sc8jbcqRtN3eEgtMkVdok823JUjkd1kpw2\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_0fdc5d6cac42aca78f5ad0e7fc3ac104",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.146.105/udp/33213/quic-v1\",\"/ip4/10.161.0.45/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm46AjBsWHC9boHDUypp3zHoZkqoZEFXugaPjWKZA4Looz\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_498a82c3ce04c5355ee2b785f9c6cebf",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.197.0/udp/33213/quic-v1\",\"/ip4/10.134.0.44/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm6rgNtUdzWNiCZ2hYbvwQ8vXWx38KVB99A7f1522sYmQ6\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T01:01:44.166017Z"
 	},
 	{
 		"gateway_id": "ag_2ebecd841c95448ce94a7b976a70ab17",
@@ -418,25 +259,187 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_a981c9269dc7072bbbd82a51da7a9678",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.94.145.42/udp/33213/quic-v1\",\"/ip4/10.164.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvCubnFFSDEttEj9axzqjrqpBAUAsXqDZjcTAJXov7dsU\"}",
+		"gateway_id": "ag_a02030e28812e5095c3c663555b47f22",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.57.232.186/udp/33213/quic-v1\",\"/ip4/10.137.0.49/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmKMdGmYCyBCS4WoQfTKv3R1Gdu3QDWBMVwsqUYsza6zso\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_35b14539092ca6e59016876423264c0f",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.158.229.225/udp/33213/quic-v1\",\"/ip4/10.179.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5kSwKpUjEh8oBcQxdPF7t7siXzPvUqeDPnHubXm2ELUz\"}",
+		"gateway_id": "ag_c046ba7c9b0c182b596c47ebefcdd300",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.230.171.181/udp/33213/quic-v1\",\"/ip4/10.161.0.32/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm6mnaSncrAGjWy2ueqHMG7L2JoJWUuMYw7b9yBEz1aVZa\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:45.95133Z"
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_7d47330ea21bea2478149e45042b7d71",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.244.164/udp/33213/quic-v1\",\"/ip4/10.155.0.11/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL52F2K8wJKmRw8om718ion8py5Uf6dAevDi2tFsbKLcy\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_afe2fee240148b75016b23c4cb4ff5b1",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.161.23/udp/33213/quic-v1\",\"/ip4/10.134.0.34/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSspyUQ1C8hNVAo82wcgmUPpez7umrFyyTs4Ux8DQKFH1\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:08.833858Z"
+	},
+	{
+		"gateway_id": "ag_cfcd3842788d5d84822f8443e78a61f9",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.181.214.80/udp/33213/quic-v1\",\"/ip4/10.161.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmS78dmF3SVFeJvYzKHAqfe72TYHGhv99NS2mK2MRtzBsy\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:25.987845Z"
+	},
+	{
+		"gateway_id": "ag_6f315054790a9410a2cc72e18772896b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/8.234.141.232/udp/33213/quic-v1\",\"/ip4/10.161.0.29/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwCAa1PY64ro1xBa9Yk7dkrsN5vgpe4zDqo1nYEgb8uVX\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:00:49.47393Z"
+	},
+	{
+		"gateway_id": "ag_8f4e4403654c6c5af62a52719a9013cd",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.88.86.141/udp/33213/quic-v1\",\"/ip4/10.170.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3nf26i2RMiXnbJgUB2zHguYPPEFmiN5zKU3W4iBVaHfN\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_fbfa8c008adf9fa425c00e2c92d6253e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.248.14/udp/33213/quic-v1\",\"/ip4/10.161.0.54/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBZyvsV7hWqrk2utQ1ZQzwAjhk4BBcWacS2oiV97yNP79\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_a06e6d0fd90e7d0545884024b5cbf818",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.165.107/udp/33213/quic-v1\",\"/ip4/10.134.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFgeri2bHooDm747FxWL4vD8NgdGGHTreypY2makfss9x\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:51.446677Z"
+	},
+	{
+		"gateway_id": "ag_7c2c084a459a9064161d5ae62ddb2984",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.234.91.114/udp/33213/quic-v1\",\"/ip4/10.134.0.41/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCFucwY6suVmE4CsWQVLoQVkZzH82USHYfKRAyVbSQ6GK\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_098f499590fa29ca13b09b86f23e3c74",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.172.22/udp/33213/quic-v1\",\"/ip4/10.131.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmTwcK8TkjoWg6GPWe4msFMDjMQa2vrWar1HjaKBcQJhxQ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_c7386ed8eb26da7b621879a3394da9ca",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.147.143/udp/33213/quic-v1\",\"/ip4/10.134.0.18/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm7ArZ7TxfGT3mDsJc3qBssNKUv5wuGtLQNjvzs2cA8bPk\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:26.935559Z"
+	},
+	{
+		"gateway_id": "ag_14e882596acbf94d310effb8e3b51f83",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.218.124/udp/33213/quic-v1\",\"/ip4/10.134.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvNhzs8aoKvvHwd42HKRJopBrZDvC7zgbS2YWkzub1m67\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_1feb626cc449afd809188e85c9c7a766",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.227.51/udp/33213/quic-v1\",\"/ip4/10.134.0.51/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQVYv5J5te9VxgxkMhPVpkhExq87sMTS9c49WfyThmfXS\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_dbffdbc027f702ebe28b8613ea629fbd",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.116.242.120/udp/33213/quic-v1\",\"/ip4/10.179.0.15/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBNYdPgck9rGgkZGJPo7a8cvv2pqgHvXbspw8Mw7zYf8U\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:05.25201Z"
+	},
+	{
+		"gateway_id": "ag_10e3a51576db6ef8e588ec0e265f5e04",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.79.228/udp/33213/quic-v1\",\"/ip4/10.131.0.35/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmKEahj5ubwVzegBqpWqYKdhVu8SGG6ggrkksKbUJDfYCe\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_a5eea278753d03d0d7649b62c4511724",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.155.148.124/udp/33213/quic-v1\",\"/ip4/10.146.0.13/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmPVNBVcwYnBYNxHgQYV339aqCr79EVSdUyV79D87EBGjV\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_5040ce3ef767dcff82343049d9388559",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.19.192/udp/33213/quic-v1\",\"/ip4/10.134.0.61/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyxZsBetkYwkHx94sFVrj7PDjMBtiBkgaUkE5cuaGp6CW\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_921517e36bb27eada196bce30ce04a3f",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.252.1/udp/33213/quic-v1\",\"/ip4/10.161.0.31/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5bgTdoY58dGN3rfXe86GiCw8pyA677okW5xTAgVJvQst\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_6c3afe42e59cfe30ac3a3bce514625b0",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.11.84.199/udp/33213/quic-v1\",\"/ip4/10.161.0.30/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkz5XokMjkvaWQ227zQDEGuHrqqRvCt93fZk542J1Phdet\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:55.279971Z"
 	},
 	{
 		"gateway_id": "ag_04430aa4a59d52ae2905a1a14fe82f75",
@@ -445,54 +448,25 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_b0105c3d7acf54bf3a45aa2ab8a99bde",
-		"gateway_http_addr": "51.77.18.164:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/51.77.18.164/tcp/43213\",\"/ip4/172.17.0.3/tcp/43213\"],\"peerID\":\"16Uiu2HAmPX2SSPZerZtzkyU7WJt9nHXcK8zxxfFavhdXj6MsnYeG\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_4d8e23a9209d046d898bf30bbbb64748",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.186.178.156/udp/33213/quic-v1\",\"/ip4/10.161.0.26/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5re9MxQraHUiD5QXZpXMx9fnJtLFZBQcWdrcvyDrEPEd\"}",
+		"gateway_id": "ag_9c9c7d6348fd85472a80b44f88627dd5",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.100.71/udp/33213/quic-v1\",\"/ip4/10.134.15.202/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQJ7AYQZE3ndRFKPdf6r96NL7hY8uxgQ2EsX5arsWPRyQ\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:10:06.995768Z"
+		"last_seen": "2026-08-08T00:57:00.994064Z"
 	},
 	{
-		"gateway_id": "ag_a2d5ba0e7d67b53f2e22db79979dfbb6",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.192.187/udp/33213/quic-v1\",\"/ip4/10.131.0.28/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAwaMs5ghiXDtKHrkdEzwE3rYoi3Mcz2kHuZ4yqJhfw7M\"}",
+		"gateway_id": "ag_e818bbd2b44571ac26fad1128f6ac4bf",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.70.154.245/udp/33213/quic-v1\",\"/ip4/10.161.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBNPGSk5oAyjfGfJ3iJ9cavFmfKdvhfuXcsJ52cZUtAt9\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_1d6e1ce7fcec3534fdf01377026b5028",
-		"gateway_http_addr": "51.159.106.11:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/51.159.106.11/tcp/43213\",\"/ip6/2001:bc8:1201:729:da5e:d3ff:fe43:fab6/tcp/43213\",\"/ip4/172.18.0.1/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.19.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmMWEqN9N1ARdWzNDBNdgordeL2Qa2BL7954MJMghcichu\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_dc35c9fd5093010735c936ddd7d20b7a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.245.233.171/udp/33213/quic-v1\",\"/ip4/10.161.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFAsKM6HUmdW6WBFJongvvvJyDGUryg2w2zkRte3RGgQQ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:13.923591Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
 		"gateway_id": "ag_f6cc4ea2dbc3e156a0e3d27e3fbbe1fc",
@@ -502,587 +476,7 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_452fe59e978a873aeb609783769d610f",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.182.154.205/udp/33213/quic-v1\",\"/ip4/10.161.0.34/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm9Zxehuwy3mDkiReaKEq8reAa7yv7GfvbV4dt7Fkzqg4z\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_7ba450c1354a4b954a0c6f196a5c898e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.175.74/udp/33213/quic-v1\",\"/ip4/10.134.0.8/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5kZekyCuv1SP2DasKZP6k9o3BA88BsfobYVwT564Puww\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_1b5ac836d0073dcaa6136dab3a4e61a5",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.164.150/udp/33213/quic-v1\",\"/ip4/10.131.0.27/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmDWhQMkqS2u3B7hocBTsUWjfi2phkbGiNsnUoWd3j7KmG\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_b20bc4add3603145a0873ba429193384",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.186.158.3/udp/33213/quic-v1\",\"/ip4/10.131.0.36/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmDZjpA5yhmFpRVrBxq7GG6PLFwWvVHZRQcfimFTXFrm5w\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_c046ba7c9b0c182b596c47ebefcdd300",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.230.171.181/udp/33213/quic-v1\",\"/ip4/10.161.0.32/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm6mnaSncrAGjWy2ueqHMG7L2JoJWUuMYw7b9yBEz1aVZa\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_3d1e37e5bf62672b7dea6b7ab2068702",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.232.66/udp/33213/quic-v1\",\"/ip4/10.131.0.37/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmK79v7ohJws7xq2MPYmkiJ5MaLz8ZGK6Qm1CWaGjD3iDW\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_56959f365374ac21225c02431cdd4f05",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.76.176/udp/33213/quic-v1\",\"/ip4/10.161.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmVdtwViNcoMTKdhxuN35WBsQy94BAckshoion1P7Vt1Uw\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:10:14.898989Z"
-	},
-	{
-		"gateway_id": "ag_872133317b2c778a420e51e0ea43ca64",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.40.99.105/udp/33213/quic-v1\",\"/ip4/10.134.0.37/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxQad5ZeoayWfE3UoVdgiVtX247MKMd6RJUEF58nu1Hbh\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_5b124e769011f2cb7ab700a96d8edd8e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.2.92/udp/33213/quic-v1\",\"/ip4/10.161.0.52/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCDQXWTokg21y6GFGyQ3ThmXtrZ7PknVYCeRgTocRUmoK\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_259958c9c10f735d0b7dd60b4cd2750e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.188.225/udp/33213/quic-v1\",\"/ip4/10.131.0.29/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBZKxBvgDQsc1QRmH4uY39aHjK6ohDXHkSixsvEVQ74H9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_7eccd50bcd0a4dbf1b33ae77a1c06aa0",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.181.134.190/udp/33213/quic-v1\",\"/ip4/10.161.0.21/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBJKgxYbZRPR91fm5GmXDBjDdMigbx9FAgVEDpiKij1KH\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:21.458372Z"
-	},
-	{
-		"gateway_id": "ag_fbfa8c008adf9fa425c00e2c92d6253e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.248.14/udp/33213/quic-v1\",\"/ip4/10.161.0.54/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBZyvsV7hWqrk2utQ1ZQzwAjhk4BBcWacS2oiV97yNP79\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_9c9c7d6348fd85472a80b44f88627dd5",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.100.71/udp/33213/quic-v1\",\"/ip4/10.134.15.202/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQJ7AYQZE3ndRFKPdf6r96NL7hY8uxgQ2EsX5arsWPRyQ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_4829bdc644f234666df040e23b1c17f2",
-		"gateway_http_addr": "51.77.18.171:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/51.77.18.171/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmEcVJhooArNG4XHVP4xECS3jZj5ca3QVk8DQGxiDzXg9z\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_923d18c7308f52fe1a9318562f2c3d04",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.93.40.39/udp/33213/quic-v1\",\"/ip4/10.182.0.3/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFyvymXY9su3xrGLqzFnPNfJwDVAjKwyfL8npaiWQomwP\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_f04e9c496c2aabeb683199f04d5f725c",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.11.237.62/udp/33213/quic-v1\",\"/ip4/10.140.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSF5PnxsKViSuC7JZQ5gbpDAEt4XGgCeUspJbYs7wLRFk\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_572a18ff8f4c3b9793bd42c4b0f469bc",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.203.126/udp/33213/quic-v1\",\"/ip4/10.134.0.62/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3BzUi8SiBaQQWfPqXqw2C61JSViJmoN6dzorxque2i6D\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_067e50853a753f96b59ac7b3f556068e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.46.107/udp/33213/quic-v1\",\"/ip4/10.161.0.11/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm8gU7pprFCudeEj3ruiTi6Yuy9AQWTUGiVEoWXNopN971\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_eb2a2769d2322a4806f5fee7284ff684",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.12.208/udp/33213/quic-v1\",\"/ip4/10.134.0.45/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmT8mqqGPuctQBcyZNcBYKpdv6BX85rVDNnVwvyiPtzmcd\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:20.99898Z"
-	},
-	{
-		"gateway_id": "ag_ba8279932ee5c4187a925c3d7c25d01b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.227.7/udp/33213/quic-v1\",\"/ip4/10.134.0.31/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmPdLqDAsKc7jCySvRJQVYd5tgvbMMnvUyNfij9XvcGhDG\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_f21ae3f6057555ee66964cc1390e8c4b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.195.86/udp/33213/quic-v1\",\"/ip4/10.134.0.33/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmNjK7jCM55s2KjQaU1diLcZQJEdNKz22bA8nSzo18PnSJ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:13:00.80828Z"
-	},
-	{
-		"gateway_id": "ag_d98ea503001aa12dd081822423f9b2e2",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.119.188/udp/33213/quic-v1\",\"/ip4/10.134.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5drbbXvjmARJXyira3xGxXt7VFPmonK87GACAT1txnse\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_c24d25d875b37fa6418b81e4276188b9",
-		"gateway_http_addr": "51.83.37.82:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/51.83.37.82/tcp/43213\",\"/ip6/2001:41d0:403:2752::/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.22.0.1/tcp/43213\",\"/ip4/172.23.0.1/tcp/43213\",\"/ip4/172.25.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmFuGy52oKCwGAgmjM2xy83ph3Us8tMFUhrYRm2cTLJKap\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_8947165d293032d946e3e8d4009cb723",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.198.137/udp/33213/quic-v1\",\"/ip4/10.161.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkv6iUzAsYHuuMXgz3feZSr2AzHKkTCAUopbXrJoCZvoh9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:24.688978Z"
-	},
-	{
-		"gateway_id": "ag_2d7b1afbd5d8e1665ef5a1c94cf2db60",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.247.233/udp/33213/quic-v1\",\"/ip4/10.134.15.198/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm9CWGKT1dRQcXwfBDafqbgfuTjx4sz3iV3rniyRuzHwsD\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_d33ed52e9ca62f8ba809e66a6869b060",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.56.233/udp/33213/quic-v1\",\"/ip4/10.134.0.6/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEk7akeqhggvCSxiU5KVpCSyKS5QXRwCrKNz2TgtPNrVN\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_21ce57d4fa5aefb801250ad1aa46084d",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.21.95/udp/33213/quic-v1\",\"/ip4/10.134.15.192/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmUxRDqzGppeaCzeMaWy8mH3PsHYwA9VhHjmjcvsSC7RQM\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_d6d70a492eb4e5bfaefae04109a8a0f6",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.117.148.12/udp/33213/quic-v1\",\"/ip4/10.140.0.11/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvzjakdHbsJrJm3N2m3CGqnymq7C5pXNR5GRsoxLstsqE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_5040ce3ef767dcff82343049d9388559",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.19.192/udp/33213/quic-v1\",\"/ip4/10.134.0.61/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyxZsBetkYwkHx94sFVrj7PDjMBtiBkgaUkE5cuaGp6CW\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_be0047c2bff12a7ffdf90399352ce65b",
-		"gateway_http_addr": "35.206.195.13:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.206.195.13/tcp/43213\",\"/ip4/172.18.0.9/tcp/43213\"],\"peerID\":\"16Uiu2HAm6VJ3QuxNyCQdkmq6NHbyS6tsZUGehwR9XDDuz4XY81bE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_8d12c627665fb3940ef950cf3fa09d6c",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.209.241/udp/33213/quic-v1\",\"/ip4/10.134.0.28/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmU5Lr5p8VfSyUSAZMZWwRUBofWVxMvD9bcs94inEHNokJ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_f062042b0c040516ed7dd53990eebd31",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.35.80/udp/33213/quic-v1\",\"/ip4/10.134.0.60/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGdNuvcnpWdFjKtcab6MEj2mFZjFTqSrPzQG1otN7dRcJ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_9c8160ce63df32e2f0a51b5ff649fe23",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.40.89.8/udp/33213/quic-v1\",\"/ip4/10.134.0.57/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmM5RDPxY2kvQuZJFXf6DNBsBDiuswG29ekKLPVUKJyqgk\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_a88de522db829524bebb826fe967630d",
-		"gateway_http_addr": "51.159.202.81:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/51.159.202.81/tcp/43213\",\"/ip6/2001:bc8:1201:740:da5e:d3ff:fe49:a1dc/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.18.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmQutHFUxqnXMENLkpdJ6vzcE9TrsHghdRgnwznE4AewVV\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_7d2c004da45146bd0f428539ac3b7d6e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.245.26.224/udp/33213/quic-v1\",\"/ip4/10.161.0.55/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmJJXkA8xFHuJ5P13xm54F6e4MZiByzf6HV8YppiAiqdWL\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_7074cf257eaf8ab6407e00f96f5652e7",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.39.21.202/udp/33213/quic-v1\",\"/ip4/10.143.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFoYT47ZbCNA84pNku9o8JPeY1cjyi3f6nh4asJsrPFQz\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_3a31b042a328e6bc45ef9010338357b3",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.194.60.207/udp/33213/quic-v1\",\"/ip4/10.137.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFWpw1hSMSZKJKmh2myfz7MXPaMUNteL2L2p4pAJBbXnr\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_6b2238d02297c0e7510d835d55361b1a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.174.223/udp/33213/quic-v1\",\"/ip4/10.131.0.54/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3Tc7ysMPFnQrCpjLU6i9cysx36AdWzCsgh11tjf9CnD9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_8a2e010aa153f7506640cca5bc00f418",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.155.81/udp/33213/quic-v1\",\"/ip4/10.131.0.11/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyMEXMm1j9bxvCaJe5eEQkkDmwJ6afLuqyK1nXk6F5FJC\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_77d204a35c39a2aa1b496330789c9340",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.19.198.0/udp/33213/quic-v1\",\"/ip4/10.167.15.196/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmUSmfY2QNqPYRZfoS1gfW5Ce7b46KSP4Pc9cJmvwJ57PM\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_14e882596acbf94d310effb8e3b51f83",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.218.124/udp/33213/quic-v1\",\"/ip4/10.134.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvNhzs8aoKvvHwd42HKRJopBrZDvC7zgbS2YWkzub1m67\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_6de4b2002134de08c46f36c57020d4f7",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.229.149/udp/33213/quic-v1\",\"/ip4/10.131.0.50/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQPksL9etofXhiJpuHvTLNpp5aNpJdkr2qQMssS3uGCtv\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_a24b8ce12c338c2c0e40b27cbecb92c1",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.76.247/udp/33213/quic-v1\",\"/ip4/10.161.0.36/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmM624eQoRtBiK23ByRrWEF3ggv4pDHb4azHeDVAcM8FQ6\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_e460b2cb8fe616d9f7001fd0492ac2ac",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.226.166.76/udp/33213/quic-v1\",\"/ip4/10.137.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkv9ECPP599dgCghW8t9cJtjta1ru6Mgs1TKgNAY2RTzVE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_e818bbd2b44571ac26fad1128f6ac4bf",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.70.154.245/udp/33213/quic-v1\",\"/ip4/10.161.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBNPGSk5oAyjfGfJ3iJ9cavFmfKdvhfuXcsJ52cZUtAt9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_4481e4519b7197dfc31e4e793e0d42ad",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.88.55/udp/33213/quic-v1\",\"/ip4/10.161.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLrkJXMqGF2SS4bPWPpLKyf8TZAgJ8KvYQsD3Y73nPbuC\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_2337c13f8ce9ad15d6c06acebf1cc490",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.208.231/udp/33213/quic-v1\",\"/ip4/10.131.0.53/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzgqe95vBVooNKs9mfYHEUvTjxhSNxjYohiWYqiukckB9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_be59e226ec7c5154f01ad2a5738873a1",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.100.106/udp/33213/quic-v1\",\"/ip4/10.134.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmC4ivhwSa27acgkiL3Ux6HYpMD2x5JjRJzjPwA2xDpBzR\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_2c41545d764c5ab0c3bec1646d0a60cd",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.74.246/udp/33213/quic-v1\",\"/ip4/10.131.0.15/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxhxhLP4qQhG9mipn6PwENTb25D7GnGg3bFDqKrgjaWgu\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_23d76cac72fb57c57f70483814d543c5",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.186.51.153/udp/33213/quic-v1\",\"/ip4/10.161.0.12/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4CX2336yfXrPySngTLjztL5dCtqHR2dRCuQHeZSqFzbR\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_a02030e28812e5095c3c663555b47f22",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.57.232.186/udp/33213/quic-v1\",\"/ip4/10.137.0.49/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmKMdGmYCyBCS4WoQfTKv3R1Gdu3QDWBMVwsqUYsza6zso\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:37.406355Z"
-	},
-	{
-		"gateway_id": "ag_3f390c88a6e025334b1f12346eddd917",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.249.48/udp/33213/quic-v1\",\"/ip4/10.131.0.12/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyM8TsPX1GVomDFD422N14pVxuU35JS2NfHthexF6ED9Z\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_405b7419317da4eedebbe9fa6abfb61a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.133.48/udp/33213/quic-v1\",\"/ip4/10.131.0.56/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmF5FKKQmpoHtYD8YBuKHoG3kEX91GRZcXXCxty5oTBUg2\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_fbc16dbbbf07f1c81929488d2f830c55",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.94.99/udp/33213/quic-v1\",\"/ip4/10.131.0.55/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyPNpYbu18EvXUDLt8KBQvAvDY2TJbqAsYBa9aaRjLewJ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_abf928e8dca4331a59d087c4f050aa84",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.186.60.248/udp/33213/quic-v1\",\"/ip4/10.161.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL7vKPMDt2ThDqCaZjSG8Evy6zqHPN411cyJcapdKoo8a\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_ee5c0057a89952254ec73ff049d73dcf",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.117.254/udp/33213/quic-v1\",\"/ip4/10.149.0.4/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLL7zZYq91sWo1RBxZgWmKfdtJTqdjQmyhv2eDG7VLmY8\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_7d73b75e97295dc7b93446c7d60234eb",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.13.214/udp/33213/quic-v1\",\"/ip4/10.134.15.197/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLxTw8Z66T6qcxiwSivveMXZg6GD4zLZnnuj61rZemDBE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_ac98cba40f1c56bd3b11a78f7b74c0d3",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.181.169.245/udp/33213/quic-v1\",\"/ip4/10.161.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL6VFPTG39fXcX6o94vNJq92qp1w9LY4naZ9grfXuQABT\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_e4a69e016d2f0878860039651896af4e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.115.32/udp/33213/quic-v1\",\"/ip4/10.161.0.27/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkuRr3JQ3RJrYpKStBr4F2e7ETooGmhx1A5HKoAdhAhBKG\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_4bb3918cb7aa14d72a3ce7fe62f23fff",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.197.144.140/udp/33213/quic-v1\",\"/ip4/10.131.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwGx6o1t9Nr7yCfz68VmYGwsnxHG8qqVTqkdqpJ5CsVnt\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_ecc9e2bc3be1b5e86c9705841e2e28c3",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.64.61.151/udp/33213/quic-v1\",\"/ip4/10.152.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFPmVSRnEhzP7hgVJ4CLV17o5rM7WZoDiDUYd8MrvudzM\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_11ca612a8a9a4bbca2cdc460ae228fe8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.20.201/udp/33213/quic-v1\",\"/ip4/10.131.0.23/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmS7PhALyD2LEvS8xvoNp6sLdmKjZ5tXmyMGBKwsZk5RA3\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_d3ddcdb1c7aca1bd72335786edb125fa",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.204.41/udp/33213/quic-v1\",\"/ip4/10.131.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFULYtJmh5SXjwAwGKtzQH2dY4GUt1CQUyrzib51W1bNs\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:16.822161Z"
-	},
-	{
-		"gateway_id": "ag_17bcdc2b92d8d57c9f492a96a4772de5",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.115.160.220/udp/33213/quic-v1\",\"/ip4/10.137.0.6/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmATmpZ4nKruY3AjbsYWtZzc98GAiPscRjHTaitcwF959i\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
 		"gateway_id": "ag_b5477c00681203ef78b53ce3b9233dba",
@@ -1091,223 +485,7 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_57c20e24419b47a85ec98afddd20ac49",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.134.57/udp/33213/quic-v1\",\"/ip4/10.161.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5NH6cgAsBqPdqcGGH4icRHnY6TUvht8JEgqciUxbTWGM\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_dbffdbc027f702ebe28b8613ea629fbd",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.116.242.120/udp/33213/quic-v1\",\"/ip4/10.179.0.15/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBNYdPgck9rGgkZGJPo7a8cvv2pqgHvXbspw8Mw7zYf8U\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_66f12e6ff2c4d920e0537cff75263913",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.185.178.21/udp/33213/quic-v1\",\"/ip4/10.131.0.33/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5UssJ5tJgp8wQoiujm4ECgczuZ5aDMCHC3uofWrFF4mq\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_9bebeeed5eac98210be38c6ae1f4008a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.82.221/udp/33213/quic-v1\",\"/ip4/10.131.0.52/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyRuFJNdbxiJJJK2Ps6vCuwvYYqvyU579taCddK3VnHYi\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_d9333ffd3d21004aba0c08847a480428",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.145.225.228/udp/33213/quic-v1\",\"/ip4/10.161.0.24/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSsSz7uh8LdR3N1PyCHLVWw4o6MDC4FpJEw2TFQ7cppSE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_7d47330ea21bea2478149e45042b7d71",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.244.164/udp/33213/quic-v1\",\"/ip4/10.155.0.11/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL52F2K8wJKmRw8om718ion8py5Uf6dAevDi2tFsbKLcy\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:10:13.801484Z"
-	},
-	{
-		"gateway_id": "ag_8fe66ac877693f14ff82fb270151ea8e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.246.204.236/udp/33213/quic-v1\",\"/ip4/10.134.0.38/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxT1kZHNvypUXhNN6jHsgCixGX5jXzSXveFQVapp6N9LB\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_4b552e18e20c49e89c6d204f463a0c65",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.125.191/udp/33213/quic-v1\",\"/ip4/10.134.0.53/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvABXxKp7LozaaLeQfaMt3GDcYkJcEUrLAeoZAAMu2AWh\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_eef56668700a874f52e54d30588e6dff",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.49.131/udp/33213/quic-v1\",\"/ip4/10.161.0.23/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAVHm2UCbatGDgUZPBAtpaDFezFmUDUBFiTuXZrAZdpr1\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_7bd43a2e66771c24b97cb313ef0c5d13",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.149.174/udp/33213/quic-v1\",\"/ip4/10.134.15.199/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmJ48jzuqA6rtCNtJ81WUsGHs4ze7mJWD4MpkQV73YBsAp\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:10:23.192396Z"
-	},
-	{
-		"gateway_id": "ag_6998a50cae342463c7d240ccfc663160",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.228.133.255/udp/33213/quic-v1\",\"/ip4/10.170.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm8rkmK1SPHopupXcQWe2DkAcZcYJefwh8tmCTrVwyvGJy\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_3ed47a4b56962333755590dca9daff32",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.253.164/udp/33213/quic-v1\",\"/ip4/10.161.0.15/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmTxH5ToxMiyRuLkDz2zd88TVQhS2GuG8sBqRHRat6n3w5\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_a39bcbb342ed629c3b6f1cc01514fcca",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.212.169/udp/33213/quic-v1\",\"/ip4/10.134.0.63/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxb2MWzwRGNSf7sDSRa6WS8uhosYoZEFFjtf1qsLiNAT5\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_845feba9391abc0ac1ffbe288ada7e3b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.245.193/udp/33213/quic-v1\",\"/ip4/10.131.0.6/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCEq4zMBgHNh4TFtyCZQZ8ix4ymzLXDr597gsVDzA5aw2\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_a27014946d590e2903a3f06e04365023",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.202.192/udp/33213/quic-v1\",\"/ip4/10.131.0.43/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxjWgPGd8oPScojDcZLJwKpzSJjSmXnFm7W1Kmcc1VLvY\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_70292f7d861f19602d0c20fcbccb74c8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.251.249/udp/33213/quic-v1\",\"/ip4/10.134.0.29/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmASH5iFjKCyBYGv7Ni1CTY53GTDVk4XJaryiwMKHZxaat\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:05.244139Z"
-	},
-	{
-		"gateway_id": "ag_bf710cf4f89d353d0a10cda4000a8449",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.229.188/udp/33213/quic-v1\",\"/ip4/10.158.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwDSjN2YTAnCsQegzvj1AkqHJVmFwE6gFFSWHVEXsbJqA\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_360e8329fcc53a5f197e6dc926a54fae",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.221.31.80/udp/33213/quic-v1\",\"/ip4/10.161.0.35/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFT31bYWonwmQp3HpXi1W5Tn8fompni4eNzB4JZpX6Zfp\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_afe2fee240148b75016b23c4cb4ff5b1",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.161.23/udp/33213/quic-v1\",\"/ip4/10.134.0.34/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSspyUQ1C8hNVAo82wcgmUPpez7umrFyyTs4Ux8DQKFH1\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_9e8cbd8adb11074adf2c88e101b7518b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.187.51/udp/33213/quic-v1\",\"/ip4/10.131.0.34/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwCCJ8QN1Von6rfnpDLDicHRNN9PN7Sv4YYvaEYr43vwu\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_c7a4c46fd2ba7c0b7f5416e4faa3762e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.94.148.166/udp/33213/quic-v1\",\"/ip4/10.164.0.23/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCkFne4bpSsEi9AJQLoSu4kfpQwH3JrexrfcTQ4sdcZ6C\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_6f315054790a9410a2cc72e18772896b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/8.234.141.232/udp/33213/quic-v1\",\"/ip4/10.161.0.29/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwCAa1PY64ro1xBa9Yk7dkrsN5vgpe4zDqo1nYEgb8uVX\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_e78420d5482734bbc2038f1297fa6ce2",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.139.173/udp/33213/quic-v1\",\"/ip4/10.134.15.195/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMgMCcdW8UR8opAGWQCZRrTfT8bQuWVZQrGwDXgZ1pNua\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_1feb626cc449afd809188e85c9c7a766",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.227.51/udp/33213/quic-v1\",\"/ip4/10.134.0.51/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQVYv5J5te9VxgxkMhPVpkhExq87sMTS9c49WfyThmfXS\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:58:00.807984Z"
 	},
 	{
 		"gateway_id": "ag_13b339abd44bb75e12dfc253b697b721",
@@ -1316,16 +494,16 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
+		"last_seen": "2026-08-08T01:01:15.545022Z"
 	},
 	{
-		"gateway_id": "ag_1caf4a549479674523b02d26ab132ff8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.193.142.203/udp/33213/quic-v1\",\"/ip4/10.137.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzStojGAKNQYXkUmPTdhBDi2QJa5t9VFTjKa5KTWiUdja\"}",
+		"gateway_id": "ag_8a2e010aa153f7506640cca5bc00f418",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.155.81/udp/33213/quic-v1\",\"/ip4/10.131.0.11/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyMEXMm1j9bxvCaJe5eEQkkDmwJ6afLuqyK1nXk6F5FJC\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:43.119383Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
 		"gateway_id": "ag_7c2d0c1650a33c44f1438ad6da762e8f",
@@ -1335,413 +513,43 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T01:00:44.018728Z"
 	},
 	{
-		"gateway_id": "ag_c7386ed8eb26da7b621879a3394da9ca",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.147.143/udp/33213/quic-v1\",\"/ip4/10.134.0.18/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm7ArZ7TxfGT3mDsJc3qBssNKUv5wuGtLQNjvzs2cA8bPk\"}",
+		"gateway_id": "ag_c7a4c46fd2ba7c0b7f5416e4faa3762e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.94.148.166/udp/33213/quic-v1\",\"/ip4/10.164.0.23/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCkFne4bpSsEi9AJQLoSu4kfpQwH3JrexrfcTQ4sdcZ6C\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:58:00.807984Z"
 	},
 	{
-		"gateway_id": "ag_48ae3e6e668ea88b0fe15e21f4208546",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.187.190/udp/33213/quic-v1\",\"/ip4/10.161.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL4imWoMwFmjQo1x17fH7ssuFvsE1HayLUzcpaNRvNAYW\"}",
+		"gateway_id": "ag_6de4b2002134de08c46f36c57020d4f7",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.229.149/udp/33213/quic-v1\",\"/ip4/10.131.0.50/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQPksL9etofXhiJpuHvTLNpp5aNpJdkr2qQMssS3uGCtv\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:36.194715Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_1ba9f2b90fb3eed8b02e69b2f0745474",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.11.7.114/udp/33213/quic-v1\",\"/ip4/10.161.0.38/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm7JBQTF62AUUA1wxeXC8wMyFGguN23zKwLCwyxGhtNjCt\"}",
+		"gateway_id": "ag_31e7127213d1ca61a1d8a1cd8cb4d76b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.175.229/udp/33213/quic-v1\",\"/ip4/10.131.0.45/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwF5tv6epJ3BWZSYA7DL3CFAGsWGJtG498exTFZ48gTXY\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_3480448d33d753e14096f2396779d183",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.240.173/udp/33213/quic-v1\",\"/ip4/10.134.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEw71mfBYHTxoPmuK1NM8DistR7WgHFsHAdpxxdBQSAFN\"}",
+		"gateway_id": "ag_58d64b68bb43879782a6d28d4db8f84a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.85.156.247/udp/33213/quic-v1\",\"/ip4/10.161.0.13/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGhWknV1YXq7Mfnohjh1yt6ykW3gt7kW4V6akJVKtD9ap\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_75ef422535e391cc7c990c11793301df",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.12.103.93/udp/33213/quic-v1\",\"/ip4/10.176.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyCqSGpKyze4wjQH16xY4YVt2T1vHM4f8gHGE6Fpf23H8\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_1803ecc86e4f1bcb35d004a2b8b79bc8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.40.141/udp/33213/quic-v1\",\"/ip4/10.131.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2xJjgqX149C5HLmggpUhTmD3aLK7hiFDS9rHrULaoyTt\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_c8792e366e246cab1e67932c0b572ad6",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/8.228.124.39/udp/33213/quic-v1\",\"/ip4/10.161.0.50/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkw9K78tktdet2fwUwQuh9UXRsD75SXF7HvPPDT42bEe4E\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_f3fa10b5158d77c6f7065c14233aa771",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.151.149.128/udp/33213/quic-v1\",\"/ip4/10.158.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm1pnrG1QD3G1pzhfAXw8mDVbHtWbK621CJCRJuoJpA5ER\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_a8b3422bc40bd4a366b680b329d9fa26",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.161.199/udp/33213/quic-v1\",\"/ip4/10.143.0.3/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGCcmV6gWiDk5KA9LjGotP39Qfv4fCjzVVYSyL9dRdyev\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_e8daab1bc1577ac925ed371b02bf612e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.158.43.200/udp/33213/quic-v1\",\"/ip4/10.131.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMFz487xrrDsJ9LsBiXTZ5EHtguNocU259WkzS2EB6fkJ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_cac236530ed5f29fc416ca5198fa32ee",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.18.38/udp/33213/quic-v1\",\"/ip4/10.131.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2yEqz7a5pdfLtRstUQpDMkGGJZAB1Br1J2VN58b2wNBB\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:18.336672Z"
-	},
-	{
-		"gateway_id": "ag_54f08ab1e8fb7fe57844ab85cfa4c876",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.228.28/udp/33213/quic-v1\",\"/ip4/10.155.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmPBWZ6nsjfFWnefWNbRqYZPnLoPrXwfB6HypYwt7zHpPG\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:17.675552Z"
-	},
-	{
-		"gateway_id": "ag_e39670045fb6a6896abc7d9b445d68de",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.157.193/udp/33213/quic-v1\",\"/ip4/10.131.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwPSFBG9miE7A2MbCV25Pusyeb8k3LmKtj5Vk5cXA1jng\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_ef65d71477c4150b7dcbfd08514b9298",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/8.234.177.175/udp/33213/quic-v1\",\"/ip4/10.161.0.28/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzvMT8B4CcvJ7ngAq7dGU8bkj1f4TUYDnjkmzKEDLdybn\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_33efc3f902581c38f15c83dc01bfcf02",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.64.53.175/udp/33213/quic-v1\",\"/ip4/10.152.0.9/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLA6nTYDbQmAvWB25JjadCWWNXwqvusgiam5V8QDczyL9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_2904cb593c4bcc7e38686b65d8d41f54",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.167.158/udp/33213/quic-v1\",\"/ip4/10.134.15.194/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2YujbXxQrg9o4bWXtwZDsJAprHB1dTFspjQf9vU3VTBp\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_e98cc51ccbeaafe20e44ff5b2c037457",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.241.34/udp/33213/quic-v1\",\"/ip4/10.134.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm54NaVBueYnfjAJS6HddDjMhgv9vu2BC6kd8PaRVpSPD2\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:13:00.80828Z"
-	},
-	{
-		"gateway_id": "ag_08bbbaef06f3016b089d4879df50a80b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.50.90.92/udp/33213/quic-v1\",\"/ip4/10.173.0.18/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmUZagwByhrAoUKKdxQrLQZGywFVT8xuXPL6k6gD64aJZq\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_a6cbcf981d4022b5357325f2fc5011f5",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.92.151/udp/33213/quic-v1\",\"/ip4/10.161.0.41/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmNeSBvX7Auukf8VuUJZj1P6bQvm3rCj1ck4KeSbcQF3ik\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_3738183c6c89dcd8f92b43de1126595e",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.5.183/udp/33213/quic-v1\",\"/ip4/10.134.0.46/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzWVC5zcqNjFX31WnFkF28AusZRHceCAqtkYeqmJdkjQ7\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_a5eea278753d03d0d7649b62c4511724",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.155.148.124/udp/33213/quic-v1\",\"/ip4/10.146.0.13/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmPVNBVcwYnBYNxHgQYV339aqCr79EVSdUyV79D87EBGjV\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_a202edb41e855e42bf8d0b6356cbcb11",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.156.109/udp/33213/quic-v1\",\"/ip4/10.134.0.24/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQQexBnVEwRWH83xNwwnk6edwuom1daCnWUQvH17c757N\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_7080d5c97cb34fc82b51f7bb7aba64f7",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.70.153.108/udp/33213/quic-v1\",\"/ip4/10.161.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQaoHigTkyAcwhsaWVXzaSDgx7mLEP6ZEncMX16FKdegu\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_3734a069083926d999b6fe07c2f4258d",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.203.37.242/udp/33213/quic-v1\",\"/ip4/10.167.15.195/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4hwnAXnPSQ14J9RDt23Yk4APHMn8sQMEGxGWR37Jkm8o\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_39dea73a12472bcdf716d8b38f289b6b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.50.84.207/udp/33213/quic-v1\",\"/ip4/10.173.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmKbJz2wzvJGc1BArQgawXiT9LgVUzU8Y9VGjW7F4U9JUN\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_921517e36bb27eada196bce30ce04a3f",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.252.1/udp/33213/quic-v1\",\"/ip4/10.161.0.31/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5bgTdoY58dGN3rfXe86GiCw8pyA677okW5xTAgVJvQst\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:11:33.552061Z"
-	},
-	{
-		"gateway_id": "ag_a893187e6a7a5809e82831b17089455a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.70.164/udp/33213/quic-v1\",\"/ip4/10.131.0.39/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5fDD6MvY2VYYfm4v34dmf91q3PMUCTDvvzVWXCL1182v\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_23caaf3d30bfedbc9108984efb9c7b82",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.205.184/udp/33213/quic-v1\",\"/ip4/10.131.0.44/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxnTAXRnWiE6jxm5ZY68DRGwqtaUwEkZ57hzHyfFEkzSd\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_af2c2f1a5f1ea2c85556026d24d700eb",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.210.158/udp/33213/quic-v1\",\"/ip4/10.131.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEJcYKKrqRXvFovVUxdKHP5WrVJCLWeG7xk6pkCmWvSA9\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:07.082545Z"
-	},
-	{
-		"gateway_id": "ag_cc5bbb260bc6bebab08e9771f91ef0ad",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.186.162/udp/33213/quic-v1\",\"/ip4/10.131.0.25/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmRNXNTqvwCvDWoLREB5hoHs1m5TY6kJ2yYFFaTgGnatL7\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_c01d4868f78d06e07302db608e4411d6",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.145.167/udp/33213/quic-v1\",\"/ip4/10.134.0.58/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMicL7rP37Fy4x1RHAELwsLyAVBV1pTM2CFaf94TXtocD\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_098f499590fa29ca13b09b86f23e3c74",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.172.22/udp/33213/quic-v1\",\"/ip4/10.131.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmTwcK8TkjoWg6GPWe4msFMDjMQa2vrWar1HjaKBcQJhxQ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_d320b79b458d813e3bbce04256b86021",
-		"gateway_http_addr": "51.68.54.117:48123",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/51.68.54.117/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmNVrBFMrJsP1mqNtzF9Y3Gxna8wsYoWPZzokADwahcdn6\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_b8b7659f2b6d5b8ab5238ee63386e0ca",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.190.198/udp/33213/quic-v1\",\"/ip4/10.131.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmHyPyKq7rF3vvHf1S1M1U44xSWhpntyjbMZT2RhZTBCff\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_0a90f1a2bf3c78de47002d36a80c8b8b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.163.188.36/udp/33213/quic-v1\",\"/ip4/10.146.0.12/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm17EGz5RDm8eYDMocLSi5KohKXpkqe1EdxVvZH4nnTHhZ\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
-	},
-	{
-		"gateway_id": "ag_10e3a51576db6ef8e588ec0e265f5e04",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.79.228/udp/33213/quic-v1\",\"/ip4/10.131.0.35/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmKEahj5ubwVzegBqpWqYKdhVu8SGG6ggrkksKbUJDfYCe\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_84165b034fe95d67546716abb16445c8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.12.77/udp/33213/quic-v1\",\"/ip4/10.131.0.31/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAD1eXk7qJphFhCxHS3KGACsgmW4oEXrgRML2WqnE3788\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_2495d4021c6b0e2d9bedd76dcb75bb40",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.220.195/udp/33213/quic-v1\",\"/ip4/10.161.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm68ZxLgMrXEGv2NKUkL1tPyBGVkyYh2UxhvDbExwcMUF4\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_a74de764e902454229948f27435ab4a8",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.148.207/udp/33213/quic-v1\",\"/ip4/10.131.0.51/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3WeoxfkNUqqMwKr4PxSWAvJtCasrscVjHGWWEzmETAWE\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_8057e6920731a0f0cac837f358d8613a",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.121.231/udp/33213/quic-v1\",\"/ip4/10.131.0.46/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFsFGbkyhtmKVGCem5zE2sayby7gYcTra97v74tvqw5Po\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_7c2c084a459a9064161d5ae62ddb2984",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.234.91.114/udp/33213/quic-v1\",\"/ip4/10.134.0.41/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCFucwY6suVmE4CsWQVLoQVkZzH82USHYfKRAyVbSQ6GK\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_ba7c291124b95f02c67ea0391f6028b5",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.70.150.120/udp/33213/quic-v1\",\"/ip4/10.161.0.57/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5TJ4H6TTdu6a5RYAZrpE2S6LrcCj7eQhkcKKGKe6kPba\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
-	},
-	{
-		"gateway_id": "ag_d54064452f244faa96d3f2a69d4b6930",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.229.82.201/udp/33213/quic-v1\",\"/ip4/10.128.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2zdrxMt8VApsvYPU2CtxsyorkzQUvsMkCb9XNmpgG2T1\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_739cf36fe121ed2d99a5c30a2401a326",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.5.122/udp/33213/quic-v1\",\"/ip4/10.134.0.50/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm9VffXyDfyz4g4fUkgYApAPm1PqQdVkXsPK3XVPZiJe1Q\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
-	},
-	{
-		"gateway_id": "ag_4a130e0bf61e647bdf742b1ef690b391",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.61.2.92/udp/33213/quic-v1\",\"/ip4/10.137.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkuSNRLVoUmg6En2HoaFnPh7Hz7goMomNzcncmG1QCnxdv\"}",
-		"cluster_id": "optimum_ethereum_mainnet_v0_1",
-		"chain_id": "mainnet",
-		"version": "v1.0.2",
-		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
 		"gateway_id": "ag_eee1b44a00ead678ac5034148f02f839",
@@ -1751,7 +559,316 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_cac236530ed5f29fc416ca5198fa32ee",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.18.38/udp/33213/quic-v1\",\"/ip4/10.131.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2yEqz7a5pdfLtRstUQpDMkGGJZAB1Br1J2VN58b2wNBB\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_8d12c627665fb3940ef950cf3fa09d6c",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.209.241/udp/33213/quic-v1\",\"/ip4/10.134.0.28/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmU5Lr5p8VfSyUSAZMZWwRUBofWVxMvD9bcs94inEHNokJ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_cdce1b69dbb43ff07e4e958dfa7e3bb6",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.93.71/udp/33213/quic-v1\",\"/ip4/10.134.0.54/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmD78j1Ej5Kri8mpc8xUbVFH2wriW4DpJWwqjHYpcHvaqu\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_ba7c291124b95f02c67ea0391f6028b5",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.70.150.120/udp/33213/quic-v1\",\"/ip4/10.161.0.57/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5TJ4H6TTdu6a5RYAZrpE2S6LrcCj7eQhkcKKGKe6kPba\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_55174b21b6bd9545448b85bc89df482c",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.61.200.207/udp/33213/quic-v1\",\"/ip4/10.137.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmT81L45sQs6iriKYS42PQM6fLetuwEg3GcvYfsjAULrGy\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_23d76cac72fb57c57f70483814d543c5",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.186.51.153/udp/33213/quic-v1\",\"/ip4/10.161.0.12/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4CX2336yfXrPySngTLjztL5dCtqHR2dRCuQHeZSqFzbR\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_d9333ffd3d21004aba0c08847a480428",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.145.225.228/udp/33213/quic-v1\",\"/ip4/10.161.0.24/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSsSz7uh8LdR3N1PyCHLVWw4o6MDC4FpJEw2TFQ7cppSE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_35dc3f4733eae4964467c887c729bcd4",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.85.180/udp/33213/quic-v1\",\"/ip4/10.131.0.49/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzmGi26rge7XamxS21n9Fou1dmq6Vp5SYeeTnA3s1TeBQ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_35aef16132f8faa53b3183a41503aa55",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.152.5/udp/33213/quic-v1\",\"/ip4/10.131.0.24/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm548BXxkn9UdsTSuWif282KDeqdQw3CKaH5MmWf2683Rz\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_3d1e37e5bf62672b7dea6b7ab2068702",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.232.66/udp/33213/quic-v1\",\"/ip4/10.131.0.37/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmK79v7ohJws7xq2MPYmkiJ5MaLz8ZGK6Qm1CWaGjD3iDW\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_fb779c3464b012849479f0e766a35185",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/8.234.187.151/udp/33213/quic-v1\",\"/ip4/10.161.0.46/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3eaPtNcLdHD4mAfFCuBmK34AtyJwZwn5hqKWhbXmy9S3\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_572a18ff8f4c3b9793bd42c4b0f469bc",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.203.126/udp/33213/quic-v1\",\"/ip4/10.134.0.62/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3BzUi8SiBaQQWfPqXqw2C61JSViJmoN6dzorxque2i6D\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:21.518531Z"
+	},
+	{
+		"gateway_id": "ag_54f08ab1e8fb7fe57844ab85cfa4c876",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.228.28/udp/33213/quic-v1\",\"/ip4/10.155.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmPBWZ6nsjfFWnefWNbRqYZPnLoPrXwfB6HypYwt7zHpPG\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_0e64313f8fc5aae45abb5f8ba3333f77",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/8.228.99.169/udp/33213/quic-v1\",\"/ip4/10.161.0.44/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSaBD1tngVAQND22Yhr5ev1cjj3EzjkApwLs3BSY68jDC\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_eef56668700a874f52e54d30588e6dff",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.49.131/udp/33213/quic-v1\",\"/ip4/10.161.0.23/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAVHm2UCbatGDgUZPBAtpaDFezFmUDUBFiTuXZrAZdpr1\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_b0105c3d7acf54bf3a45aa2ab8a99bde",
+		"gateway_http_addr": "51.77.18.164:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/51.77.18.164/tcp/43213\",\"/ip4/172.17.0.3/tcp/43213\"],\"peerID\":\"16Uiu2HAmPX2SSPZerZtzkyU7WJt9nHXcK8zxxfFavhdXj6MsnYeG\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T01:00:59.241145Z"
+	},
+	{
+		"gateway_id": "ag_4d8e23a9209d046d898bf30bbbb64748",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.186.178.156/udp/33213/quic-v1\",\"/ip4/10.161.0.26/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5re9MxQraHUiD5QXZpXMx9fnJtLFZBQcWdrcvyDrEPEd\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:41.290759Z"
+	},
+	{
+		"gateway_id": "ag_a2d5ba0e7d67b53f2e22db79979dfbb6",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.192.187/udp/33213/quic-v1\",\"/ip4/10.131.0.28/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAwaMs5ghiXDtKHrkdEzwE3rYoi3Mcz2kHuZ4yqJhfw7M\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_69dbee921d4dc134a53eee04c8c973a0",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.227.95.199/udp/33213/quic-v1\",\"/ip4/10.128.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm6WFsAfCsErkHytTKvgJM5UFy4cnseMkisdY9SAquvLoW\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_2d7b1afbd5d8e1665ef5a1c94cf2db60",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.247.233/udp/33213/quic-v1\",\"/ip4/10.134.15.198/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm9CWGKT1dRQcXwfBDafqbgfuTjx4sz3iV3rniyRuzHwsD\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_557a1aafd2684a0e2d642e848a94f743",
+		"gateway_http_addr": "72.46.84.75:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/72.46.84.75/tcp/43213\",\"/ip6/2605:6441:2001:37:ae1f:6bff:fef1:21/tcp/43213\",\"/ip4/100.64.80.96/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.18.0.1/tcp/43213\",\"/ip4/172.19.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmHKSxGLuXZrQud3wqcKWnBW8at3q1ekVJaTp3d6DHo7XM\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:31.315707Z"
+	},
+	{
+		"gateway_id": "ag_3738183c6c89dcd8f92b43de1126595e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.5.183/udp/33213/quic-v1\",\"/ip4/10.134.0.46/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzWVC5zcqNjFX31WnFkF28AusZRHceCAqtkYeqmJdkjQ7\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_923d18c7308f52fe1a9318562f2c3d04",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.93.40.39/udp/33213/quic-v1\",\"/ip4/10.182.0.3/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFyvymXY9su3xrGLqzFnPNfJwDVAjKwyfL8npaiWQomwP\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a8b3422bc40bd4a366b680b329d9fa26",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.161.199/udp/33213/quic-v1\",\"/ip4/10.143.0.3/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGCcmV6gWiDk5KA9LjGotP39Qfv4fCjzVVYSyL9dRdyev\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_3480448d33d753e14096f2396779d183",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.240.173/udp/33213/quic-v1\",\"/ip4/10.134.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEw71mfBYHTxoPmuK1NM8DistR7WgHFsHAdpxxdBQSAFN\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_48ae3e6e668ea88b0fe15e21f4208546",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.107.187.190/udp/33213/quic-v1\",\"/ip4/10.161.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL4imWoMwFmjQo1x17fH7ssuFvsE1HayLUzcpaNRvNAYW\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a202edb41e855e42bf8d0b6356cbcb11",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.156.109/udp/33213/quic-v1\",\"/ip4/10.134.0.24/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQQexBnVEwRWH83xNwwnk6edwuom1daCnWUQvH17c757N\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:00:14.639735Z"
+	},
+	{
+		"gateway_id": "ag_1ba9f2b90fb3eed8b02e69b2f0745474",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.11.7.114/udp/33213/quic-v1\",\"/ip4/10.161.0.38/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm7JBQTF62AUUA1wxeXC8wMyFGguN23zKwLCwyxGhtNjCt\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_f062042b0c040516ed7dd53990eebd31",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.35.80/udp/33213/quic-v1\",\"/ip4/10.134.0.60/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGdNuvcnpWdFjKtcab6MEj2mFZjFTqSrPzQG1otN7dRcJ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a74de764e902454229948f27435ab4a8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.148.207/udp/33213/quic-v1\",\"/ip4/10.131.0.51/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3WeoxfkNUqqMwKr4PxSWAvJtCasrscVjHGWWEzmETAWE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_17bcdc2b92d8d57c9f492a96a4772de5",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.115.160.220/udp/33213/quic-v1\",\"/ip4/10.137.0.6/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmATmpZ4nKruY3AjbsYWtZzc98GAiPscRjHTaitcwF959i\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:42.872057Z"
+	},
+	{
+		"gateway_id": "ag_4a31bfe2ccaf6c9c4e3abbeb029883a3",
+		"gateway_http_addr": "57.129.146.225:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/57.129.146.225/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmAFW75erZhe5BVNEz9MCaxv7G5LiM6tgKeKVr66Pr4fD7\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_f04e9c496c2aabeb683199f04d5f725c",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.11.237.62/udp/33213/quic-v1\",\"/ip4/10.140.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSF5PnxsKViSuC7JZQ5gbpDAEt4XGgCeUspJbYs7wLRFk\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_2495d4021c6b0e2d9bedd76dcb75bb40",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.220.195/udp/33213/quic-v1\",\"/ip4/10.161.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm68ZxLgMrXEGv2NKUkL1tPyBGVkyYh2UxhvDbExwcMUF4\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
 		"gateway_id": "ag_d8991b2a3368d5856566c72601264eff",
@@ -1760,7 +877,871 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_45477ce85c0b77015dc62543151ea4f6",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.236.250/udp/33213/quic-v1\",\"/ip4/10.131.0.30/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmH3RKumenrrxnnyXBqBcCa4s5atUg3oWXLc1R7KVi3V3Y\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_9e8cbd8adb11074adf2c88e101b7518b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.187.51/udp/33213/quic-v1\",\"/ip4/10.131.0.34/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwCCJ8QN1Von6rfnpDLDicHRNN9PN7Sv4YYvaEYr43vwu\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:45.591948Z"
+	},
+	{
+		"gateway_id": "ag_c8792e366e246cab1e67932c0b572ad6",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/8.228.124.39/udp/33213/quic-v1\",\"/ip4/10.161.0.50/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkw9K78tktdet2fwUwQuh9UXRsD75SXF7HvPPDT42bEe4E\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_4b552e18e20c49e89c6d204f463a0c65",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.125.191/udp/33213/quic-v1\",\"/ip4/10.134.0.53/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvABXxKp7LozaaLeQfaMt3GDcYkJcEUrLAeoZAAMu2AWh\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_7cf9fd9fc43d40ef39bac2596a79677d",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.233.48/udp/33213/quic-v1\",\"/ip4/10.134.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAbqKLtce7xsonC4PhBbNSPzVrweki3CpVcJpkJGtn3U4\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:00:37.36938Z"
+	},
+	{
+		"gateway_id": "ag_0a90f1a2bf3c78de47002d36a80c8b8b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.163.188.36/udp/33213/quic-v1\",\"/ip4/10.146.0.12/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm17EGz5RDm8eYDMocLSi5KohKXpkqe1EdxVvZH4nnTHhZ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:59.946147Z"
+	},
+	{
+		"gateway_id": "ag_be0047c2bff12a7ffdf90399352ce65b",
+		"gateway_http_addr": "35.206.195.13:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.206.195.13/tcp/43213\",\"/ip4/172.18.0.9/tcp/43213\"],\"peerID\":\"16Uiu2HAm6VJ3QuxNyCQdkmq6NHbyS6tsZUGehwR9XDDuz4XY81bE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_be59e226ec7c5154f01ad2a5738873a1",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.100.106/udp/33213/quic-v1\",\"/ip4/10.134.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmC4ivhwSa27acgkiL3Ux6HYpMD2x5JjRJzjPwA2xDpBzR\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_358d1d4ceb5e641c8edad87d9e16901d",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.222.36/udp/33213/quic-v1\",\"/ip4/10.161.0.33/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5sCUUwPGqEe597hKndfZG3fUPPVU7UcUhkeTBfjsms3N\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_57c20e24419b47a85ec98afddd20ac49",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.134.57/udp/33213/quic-v1\",\"/ip4/10.161.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5NH6cgAsBqPdqcGGH4icRHnY6TUvht8JEgqciUxbTWGM\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_452fe59e978a873aeb609783769d610f",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.182.154.205/udp/33213/quic-v1\",\"/ip4/10.161.0.34/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm9Zxehuwy3mDkiReaKEq8reAa7yv7GfvbV4dt7Fkzqg4z\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_33efc3f902581c38f15c83dc01bfcf02",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.64.53.175/udp/33213/quic-v1\",\"/ip4/10.152.0.9/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLA6nTYDbQmAvWB25JjadCWWNXwqvusgiam5V8QDczyL9\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_d0412b563e22813d0a59a38452a9f8d9",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.245.159.79/udp/33213/quic-v1\",\"/ip4/10.161.0.43/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQpa25cC6j6WyVYk2KQwC8apSU853Hy53WfdU27qaKDkK\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_d320b79b458d813e3bbce04256b86021",
+		"gateway_http_addr": "51.68.54.117:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/51.68.54.117/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmNVrBFMrJsP1mqNtzF9Y3Gxna8wsYoWPZzokADwahcdn6\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_1b5ac836d0073dcaa6136dab3a4e61a5",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.164.150/udp/33213/quic-v1\",\"/ip4/10.131.0.27/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmDWhQMkqS2u3B7hocBTsUWjfi2phkbGiNsnUoWd3j7KmG\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_1caf4a549479674523b02d26ab132ff8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.193.142.203/udp/33213/quic-v1\",\"/ip4/10.137.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzStojGAKNQYXkUmPTdhBDi2QJa5t9VFTjKa5KTWiUdja\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_cc5bbb260bc6bebab08e9771f91ef0ad",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.186.162/udp/33213/quic-v1\",\"/ip4/10.131.0.25/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmRNXNTqvwCvDWoLREB5hoHs1m5TY6kJ2yYFFaTgGnatL7\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_f21ae3f6057555ee66964cc1390e8c4b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.195.86/udp/33213/quic-v1\",\"/ip4/10.134.0.33/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmNjK7jCM55s2KjQaU1diLcZQJEdNKz22bA8nSzo18PnSJ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_7d73b75e97295dc7b93446c7d60234eb",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.13.214/udp/33213/quic-v1\",\"/ip4/10.134.15.197/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLxTw8Z66T6qcxiwSivveMXZg6GD4zLZnnuj61rZemDBE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a15bbf94546386e6f1a509956254a6fe",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.16.113/udp/33213/quic-v1\",\"/ip4/10.131.0.38/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm1ZBUkFLeLXvyaEaz67VRhexwJkfGjpX3CRbxcGMpbqUE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_08bbbaef06f3016b089d4879df50a80b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.50.90.92/udp/33213/quic-v1\",\"/ip4/10.173.0.18/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmUZagwByhrAoUKKdxQrLQZGywFVT8xuXPL6k6gD64aJZq\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:57.98059Z"
+	},
+	{
+		"gateway_id": "ag_6998a50cae342463c7d240ccfc663160",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.228.133.255/udp/33213/quic-v1\",\"/ip4/10.170.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm8rkmK1SPHopupXcQWe2DkAcZcYJefwh8tmCTrVwyvGJy\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_7bd43a2e66771c24b97cb313ef0c5d13",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.149.174/udp/33213/quic-v1\",\"/ip4/10.134.15.199/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmJ48jzuqA6rtCNtJ81WUsGHs4ze7mJWD4MpkQV73YBsAp\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:11.931338Z"
+	},
+	{
+		"gateway_id": "ag_7d2c004da45146bd0f428539ac3b7d6e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.245.26.224/udp/33213/quic-v1\",\"/ip4/10.161.0.55/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmJJXkA8xFHuJ5P13xm54F6e4MZiByzf6HV8YppiAiqdWL\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_db8bf24a29236484e1176ca7fbe4150c",
+		"gateway_http_addr": "57.129.90.166:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/57.129.90.166/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmSTENbYLAyRpCPe67GdvtScBn4FWY4hAFTLYD2jq4T184\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_b3cb363db0040f1ee07abe7f70b5fe24",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.27.108/udp/33213/quic-v1\",\"/ip4/10.134.15.201/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3LXgaRx7jA8Gi8Ye6jN14LU7RBePRBpctnVjDqGgqLmS\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_66f12e6ff2c4d920e0537cff75263913",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.185.178.21/udp/33213/quic-v1\",\"/ip4/10.131.0.33/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5UssJ5tJgp8wQoiujm4ECgczuZ5aDMCHC3uofWrFF4mq\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_0e3f5570ce7197df590af5910f1b327b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.217.76/udp/33213/quic-v1\",\"/ip4/10.131.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4mrKZmszeqZcbxedJGYHQYpfWWKJxHBu8K6osuFR99NE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_360e8329fcc53a5f197e6dc926a54fae",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.221.31.80/udp/33213/quic-v1\",\"/ip4/10.161.0.35/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFT31bYWonwmQp3HpXi1W5Tn8fompni4eNzB4JZpX6Zfp\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_11ca612a8a9a4bbca2cdc460ae228fe8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.20.201/udp/33213/quic-v1\",\"/ip4/10.131.0.23/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmS7PhALyD2LEvS8xvoNp6sLdmKjZ5tXmyMGBKwsZk5RA3\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a39bcbb342ed629c3b6f1cc01514fcca",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.212.169/udp/33213/quic-v1\",\"/ip4/10.134.0.63/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxb2MWzwRGNSf7sDSRa6WS8uhosYoZEFFjtf1qsLiNAT5\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_56959f365374ac21225c02431cdd4f05",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.76.176/udp/33213/quic-v1\",\"/ip4/10.161.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmVdtwViNcoMTKdhxuN35WBsQy94BAckshoion1P7Vt1Uw\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_2c41545d764c5ab0c3bec1646d0a60cd",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.74.246/udp/33213/quic-v1\",\"/ip4/10.131.0.15/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxhxhLP4qQhG9mipn6PwENTb25D7GnGg3bFDqKrgjaWgu\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_75ef422535e391cc7c990c11793301df",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.12.103.93/udp/33213/quic-v1\",\"/ip4/10.176.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyCqSGpKyze4wjQH16xY4YVt2T1vHM4f8gHGE6Fpf23H8\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_e78420d5482734bbc2038f1297fa6ce2",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.139.173/udp/33213/quic-v1\",\"/ip4/10.134.15.195/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMgMCcdW8UR8opAGWQCZRrTfT8bQuWVZQrGwDXgZ1pNua\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_d54064452f244faa96d3f2a69d4b6930",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.229.82.201/udp/33213/quic-v1\",\"/ip4/10.128.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2zdrxMt8VApsvYPU2CtxsyorkzQUvsMkCb9XNmpgG2T1\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_ac98cba40f1c56bd3b11a78f7b74c0d3",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.181.169.245/udp/33213/quic-v1\",\"/ip4/10.161.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL6VFPTG39fXcX6o94vNJq92qp1w9LY4naZ9grfXuQABT\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a981c9269dc7072bbbd82a51da7a9678",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.94.145.42/udp/33213/quic-v1\",\"/ip4/10.164.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkvCubnFFSDEttEj9axzqjrqpBAUAsXqDZjcTAJXov7dsU\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_bd36ec7b5b40a9e09276b071ef07593c",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.107.69.173/udp/33213/quic-v1\",\"/ip4/10.134.0.27/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2t1Yp4i6iqwMx3qxuDFVrCXcgou46vtvomvdTEVuLjcK\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_a24b8ce12c338c2c0e40b27cbecb92c1",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.76.247/udp/33213/quic-v1\",\"/ip4/10.161.0.36/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmM624eQoRtBiK23ByRrWEF3ggv4pDHb4azHeDVAcM8FQ6\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_498a82c3ce04c5355ee2b785f9c6cebf",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.197.0/udp/33213/quic-v1\",\"/ip4/10.134.0.44/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm6rgNtUdzWNiCZ2hYbvwQ8vXWx38KVB99A7f1522sYmQ6\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_3a31b042a328e6bc45ef9010338357b3",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.194.60.207/udp/33213/quic-v1\",\"/ip4/10.137.0.7/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFWpw1hSMSZKJKmh2myfz7MXPaMUNteL2L2p4pAJBbXnr\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_8947165d293032d946e3e8d4009cb723",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.86.198.137/udp/33213/quic-v1\",\"/ip4/10.161.0.10/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkv6iUzAsYHuuMXgz3feZSr2AzHKkTCAUopbXrJoCZvoh9\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_8fe66ac877693f14ff82fb270151ea8e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.246.204.236/udp/33213/quic-v1\",\"/ip4/10.134.0.38/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxT1kZHNvypUXhNN6jHsgCixGX5jXzSXveFQVapp6N9LB\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_d75727839c7ba56097cf99f231622bdc",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.87.152/udp/33213/quic-v1\",\"/ip4/10.134.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmGqN7jJZhHLyCuTtVziko7AexvAJcy3gja8zt5XxicPdB\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_7074cf257eaf8ab6407e00f96f5652e7",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.39.21.202/udp/33213/quic-v1\",\"/ip4/10.143.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFoYT47ZbCNA84pNku9o8JPeY1cjyi3f6nh4asJsrPFQz\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_70292f7d861f19602d0c20fcbccb74c8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.89.251.249/udp/33213/quic-v1\",\"/ip4/10.134.0.29/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmASH5iFjKCyBYGv7Ni1CTY53GTDVk4XJaryiwMKHZxaat\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:02:00.994429Z"
+	},
+	{
+		"gateway_id": "ag_3734a069083926d999b6fe07c2f4258d",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.203.37.242/udp/33213/quic-v1\",\"/ip4/10.167.15.195/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm4hwnAXnPSQ14J9RDt23Yk4APHMn8sQMEGxGWR37Jkm8o\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_fbbc951e2bd7a21f22f592fdeacf77b8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.130.226/udp/33213/quic-v1\",\"/ip4/10.131.0.26/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmDKPSM6XeE9Z1N2GuMzAZ1FsP8BXooFzntAvzZDi5iF8G\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_4a130e0bf61e647bdf742b1ef690b391",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.61.2.92/udp/33213/quic-v1\",\"/ip4/10.137.0.47/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkuSNRLVoUmg6En2HoaFnPh7Hz7goMomNzcncmG1QCnxdv\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_9c8160ce63df32e2f0a51b5ff649fe23",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.40.89.8/udp/33213/quic-v1\",\"/ip4/10.134.0.57/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmM5RDPxY2kvQuZJFXf6DNBsBDiuswG29ekKLPVUKJyqgk\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_35b14539092ca6e59016876423264c0f",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.158.229.225/udp/33213/quic-v1\",\"/ip4/10.179.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5kSwKpUjEh8oBcQxdPF7t7siXzPvUqeDPnHubXm2ELUz\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_5b124e769011f2cb7ab700a96d8edd8e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.2.92/udp/33213/quic-v1\",\"/ip4/10.161.0.52/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCDQXWTokg21y6GFGyQ3ThmXtrZ7PknVYCeRgTocRUmoK\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_ef279fa2be9e240fd2d6af78642bc0a2",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.210.16/udp/33213/quic-v1\",\"/ip4/10.131.0.32/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmHkxmmusSfzJhP7rtqo7iZBvAYKPYV5rPMMS5HyWaKy39\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_8057e6920731a0f0cac837f358d8613a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.121.231/udp/33213/quic-v1\",\"/ip4/10.131.0.46/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFsFGbkyhtmKVGCem5zE2sayby7gYcTra97v74tvqw5Po\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_d3ddcdb1c7aca1bd72335786edb125fa",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.204.41/udp/33213/quic-v1\",\"/ip4/10.131.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFULYtJmh5SXjwAwGKtzQH2dY4GUt1CQUyrzib51W1bNs\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:28.453956Z"
+	},
+	{
+		"gateway_id": "ag_3140d0b04b3b90b03cc15f56f97848ef",
+		"gateway_http_addr": "57.129.90.170:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/57.129.90.170/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAm9U1xVXGbbHn7oS7AjNCqhGwQ7pGB1s4XH54aHUJNS9sm\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_ef65d71477c4150b7dcbfd08514b9298",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/8.234.177.175/udp/33213/quic-v1\",\"/ip4/10.161.0.28/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkzvMT8B4CcvJ7ngAq7dGU8bkj1f4TUYDnjkmzKEDLdybn\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_0b71569bbd7c0260d07ac13054f7928f",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.176.28/udp/33213/quic-v1\",\"/ip4/10.131.0.13/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm38K7479CqfHNVhJh46sbM48umNeiqsLmaQMj5VwCSAFz\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_2904cb593c4bcc7e38686b65d8d41f54",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.167.158/udp/33213/quic-v1\",\"/ip4/10.134.15.194/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2YujbXxQrg9o4bWXtwZDsJAprHB1dTFspjQf9vU3VTBp\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:00:38.849426Z"
+	},
+	{
+		"gateway_id": "ag_a05db4cd13fb5abb6ff9b121799ba881",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.163.75/udp/33213/quic-v1\",\"/ip4/10.131.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFqv6Tsh3njT1T6KUy9KvKL1og1Lc3H59stt7rSvzMC32\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_9bebeeed5eac98210be38c6ae1f4008a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.82.221/udp/33213/quic-v1\",\"/ip4/10.131.0.52/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyRuFJNdbxiJJJK2Ps6vCuwvYYqvyU579taCddK3VnHYi\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_3ed47a4b56962333755590dca9daff32",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.253.164/udp/33213/quic-v1\",\"/ip4/10.161.0.15/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmTxH5ToxMiyRuLkDz2zd88TVQhS2GuG8sBqRHRat6n3w5\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_59413e6dd647f9ce1cad592c9a6f6ad6",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.180.12.52/udp/33213/quic-v1\",\"/ip4/10.182.0.2/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm1LYb2rWG3nZkTohCZ1ZyYYvPZFXcKwUuQwyf6wvCUcph\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_f9e1b2b63ddc0568f106bc05060b9301",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.242.242.224/udp/33213/quic-v1\",\"/ip4/10.134.0.16/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLjainjEmVLq22owPQpYoB3qT4cYwrXXa7iJ6m33nsGTT\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_b53f6661c9a957b051bb06dadc6e0142",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.104.197.78/udp/33213/quic-v1\",\"/ip4/10.149.0.5/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm35DYV54fqgZDToUEBm1nHYQUU3w1TSNuyTo4bXN1NnSw\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_eb2a2769d2322a4806f5fee7284ff684",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.12.208/udp/33213/quic-v1\",\"/ip4/10.134.0.45/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmT8mqqGPuctQBcyZNcBYKpdv6BX85rVDNnVwvyiPtzmcd\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_ee5c0057a89952254ec73ff049d73dcf",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.110.117.254/udp/33213/quic-v1\",\"/ip4/10.149.0.4/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLL7zZYq91sWo1RBxZgWmKfdtJTqdjQmyhv2eDG7VLmY8\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_c24d25d875b37fa6418b81e4276188b9",
+		"gateway_http_addr": "51.83.37.82:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/51.83.37.82/tcp/43213\",\"/ip6/2001:41d0:403:2752::/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.22.0.1/tcp/43213\",\"/ip4/172.23.0.1/tcp/43213\",\"/ip4/172.25.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmFuGy52oKCwGAgmjM2xy83ph3Us8tMFUhrYRm2cTLJKap\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_23caaf3d30bfedbc9108984efb9c7b82",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.205.184/udp/33213/quic-v1\",\"/ip4/10.131.0.44/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxnTAXRnWiE6jxm5ZY68DRGwqtaUwEkZ57hzHyfFEkzSd\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:49.628609Z"
+	},
+	{
+		"gateway_id": "ag_68918e5b7dbd4f62752d6a08619f61f8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.15.69/udp/33213/quic-v1\",\"/ip4/10.131.0.41/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm8y1aFdLwCGtDyBJZAbgEjG2J223BwzpfH4GdygWMshs5\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_f3fa10b5158d77c6f7065c14233aa771",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.151.149.128/udp/33213/quic-v1\",\"/ip4/10.158.0.20/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm1pnrG1QD3G1pzhfAXw8mDVbHtWbK621CJCRJuoJpA5ER\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_f666037cad2df68a601a4d31678c613c",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.198.144.64/udp/33213/quic-v1\",\"/ip4/10.134.15.200/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmRit3H9A9MfThaPbmFv7AwqxdoMupuGqqBYKpaFxmjpYv\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_739cf36fe121ed2d99a5c30a2401a326",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.92.5.122/udp/33213/quic-v1\",\"/ip4/10.134.0.50/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm9VffXyDfyz4g4fUkgYApAPm1PqQdVkXsPK3XVPZiJe1Q\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_872133317b2c778a420e51e0ea43ca64",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.40.99.105/udp/33213/quic-v1\",\"/ip4/10.134.0.37/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxQad5ZeoayWfE3UoVdgiVtX247MKMd6RJUEF58nu1Hbh\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_0e5440398baa352eb6e18077b32312cf",
+		"gateway_http_addr": "35.240.116.118:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.240.116.118/tcp/43213\",\"/ip4/172.18.0.10/tcp/43213\"],\"peerID\":\"16Uiu2HAmNEMYEVRXv87YewxNuE4zvraBEUs6bBqEHFNKw5nWq98D\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_f28b9de129286cf18e186b735fb7960f",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.34.8.27/udp/33213/quic-v1\",\"/ip4/10.176.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEveK9KwVtDQHiF4srCvfnfGdo49jL4roPmtFUtBa7d66\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:00:38.656574Z"
+	},
+	{
+		"gateway_id": "ag_13809f363d3ab5fe07fcfa6f23498986",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.124.188.227/udp/33213/quic-v1\",\"/ip4/10.131.0.48/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAAP6zn2dNSAeox8dx8fjFpqh9WvMeDjyenrhTvWwMXne\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_e9aee26ea4198fcbc0da6e1101b41bd7",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.124.42/udp/33213/quic-v1\",\"/ip4/10.131.0.18/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmHi7LAyPLmUPCzWySoiptmv9GktE8SKmDGuELYsFoPk3f\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_dc35c9fd5093010735c936ddd7d20b7a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.245.233.171/udp/33213/quic-v1\",\"/ip4/10.161.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmFAsKM6HUmdW6WBFJongvvvJyDGUryg2w2zkRte3RGgQQ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_7080d5c97cb34fc82b51f7bb7aba64f7",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.70.153.108/udp/33213/quic-v1\",\"/ip4/10.161.0.14/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmQaoHigTkyAcwhsaWVXzaSDgx7mLEP6ZEncMX16FKdegu\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_845feba9391abc0ac1ffbe288ada7e3b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.245.193/udp/33213/quic-v1\",\"/ip4/10.131.0.6/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmCEq4zMBgHNh4TFtyCZQZ8ix4ymzLXDr597gsVDzA5aw2\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a27014946d590e2903a3f06e04365023",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.142.202.192/udp/33213/quic-v1\",\"/ip4/10.131.0.43/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkxjWgPGd8oPScojDcZLJwKpzSJjSmXnFm7W1Kmcc1VLvY\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_b20bc4add3603145a0873ba429193384",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.186.158.3/udp/33213/quic-v1\",\"/ip4/10.131.0.36/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmDZjpA5yhmFpRVrBxq7GG6PLFwWvVHZRQcfimFTXFrm5w\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_a88de522db829524bebb826fe967630d",
+		"gateway_http_addr": "51.159.202.81:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/51.159.202.81/tcp/43213\",\"/ip6/2001:bc8:1201:740:da5e:d3ff:fe49:a1dc/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.18.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmQutHFUxqnXMENLkpdJ6vzcE9TrsHghdRgnwznE4AewVV\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_6b2238d02297c0e7510d835d55361b1a",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.126.174.223/udp/33213/quic-v1\",\"/ip4/10.131.0.54/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3Tc7ysMPFnQrCpjLU6i9cysx36AdWzCsgh11tjf9CnD9\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_bf710cf4f89d353d0a10cda4000a8449",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.229.188/udp/33213/quic-v1\",\"/ip4/10.158.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwDSjN2YTAnCsQegzvj1AkqHJVmFwE6gFFSWHVEXsbJqA\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:57:00.994064Z"
+	},
+	{
+		"gateway_id": "ag_66da1365b88089781fbf65029db1f606",
+		"gateway_http_addr": "35.206.253.28:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/35.206.253.28/tcp/43213\",\"/ip4/172.18.0.10/tcp/43213\"],\"peerID\":\"16Uiu2HAmCiegAUfdWtaFg2MjLBMcAhDTgKaZChKMEVy4iUUTKZso\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_d33ed52e9ca62f8ba809e66a6869b060",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.141.56.233/udp/33213/quic-v1\",\"/ip4/10.134.0.6/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmEk7akeqhggvCSxiU5KVpCSyKS5QXRwCrKNz2TgtPNrVN\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_abf928e8dca4331a59d087c4f050aa84",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.186.60.248/udp/33213/quic-v1\",\"/ip4/10.161.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmL7vKPMDt2ThDqCaZjSG8Evy6zqHPN411cyJcapdKoo8a\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_ba8279932ee5c4187a925c3d7c25d01b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.227.7/udp/33213/quic-v1\",\"/ip4/10.134.0.31/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmPdLqDAsKc7jCySvRJQVYd5tgvbMMnvUyNfij9XvcGhDG\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:11.243355Z"
+	},
+	{
+		"gateway_id": "ag_4829bdc644f234666df040e23b1c17f2",
+		"gateway_http_addr": "51.77.18.171:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/51.77.18.171/tcp/43213\",\"/ip4/172.17.0.5/tcp/43213\"],\"peerID\":\"16Uiu2HAmEcVJhooArNG4XHVP4xECS3jZj5ca3QVk8DQGxiDzXg9z\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
+	},
+	{
+		"gateway_id": "ag_e8daab1bc1577ac925ed371b02bf612e",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.158.43.200/udp/33213/quic-v1\",\"/ip4/10.131.0.19/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmMFz487xrrDsJ9LsBiXTZ5EHtguNocU259WkzS2EB6fkJ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:29.158141Z"
+	},
+	{
+		"gateway_id": "ag_e98cc51ccbeaafe20e44ff5b2c037457",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.179.241.34/udp/33213/quic-v1\",\"/ip4/10.134.0.22/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm54NaVBueYnfjAJS6HddDjMhgv9vu2BC6kd8PaRVpSPD2\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:59:29.062358Z"
+	},
+	{
+		"gateway_id": "ag_fbc16dbbbf07f1c81929488d2f830c55",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/136.85.94.99/udp/33213/quic-v1\",\"/ip4/10.131.0.55/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkyPNpYbu18EvXUDLt8KBQvAvDY2TJbqAsYBa9aaRjLewJ\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T00:58:00.807984Z"
 	},
 	{
 		"gateway_id": "ag_ea4d0d73c69c0626d5fc8fb9d6fd8e61",
@@ -1770,52 +1751,52 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "95656e8",
-		"last_seen": "2026-08-08T00:08:00.808539Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_7cf9fd9fc43d40ef39bac2596a79677d",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.185.233.48/udp/33213/quic-v1\",\"/ip4/10.134.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmAbqKLtce7xsonC4PhBbNSPzVrweki3CpVcJpkJGtn3U4\"}",
+		"gateway_id": "ag_1803ecc86e4f1bcb35d004a2b8b79bc8",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.87.40.141/udp/33213/quic-v1\",\"/ip4/10.131.0.40/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm2xJjgqX149C5HLmggpUhTmD3aLK7hiFDS9rHrULaoyTt\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_0e64313f8fc5aae45abb5f8ba3333f77",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/8.228.99.169/udp/33213/quic-v1\",\"/ip4/10.161.0.44/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSaBD1tngVAQND22Yhr5ev1cjj3EzjkApwLs3BSY68jDC\"}",
+		"gateway_id": "ag_e39670045fb6a6896abc7d9b445d68de",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.157.193/udp/33213/quic-v1\",\"/ip4/10.131.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwPSFBG9miE7A2MbCV25Pusyeb8k3LmKtj5Vk5cXA1jng\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_358d1d4ceb5e641c8edad87d9e16901d",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.222.36/udp/33213/quic-v1\",\"/ip4/10.161.0.33/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm5sCUUwPGqEe597hKndfZG3fUPPVU7UcUhkeTBfjsms3N\"}",
+		"gateway_id": "ag_39dea73a12472bcdf716d8b38f289b6b",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.50.84.207/udp/33213/quic-v1\",\"/ip4/10.173.0.17/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmKbJz2wzvJGc1BArQgawXiT9LgVUzU8Y9VGjW7F4U9JUN\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_31e7127213d1ca61a1d8a1cd8cb4d76b",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/35.247.175.229/udp/33213/quic-v1\",\"/ip4/10.131.0.45/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAkwF5tv6epJ3BWZSYA7DL3CFAGsWGJtG498exTFZ48gTXY\"}",
+		"gateway_id": "ag_7eccd50bcd0a4dbf1b33ae77a1c06aa0",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.181.134.190/udp/33213/quic-v1\",\"/ip4/10.161.0.21/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmBJKgxYbZRPR91fm5GmXDBjDdMigbx9FAgVEDpiKij1KH\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:09:49.852909Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
-		"gateway_id": "ag_fb779c3464b012849479f0e766a35185",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/8.234.187.151/udp/33213/quic-v1\",\"/ip4/10.161.0.46/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAm3eaPtNcLdHD4mAfFCuBmK34AtyJwZwn5hqKWhbXmy9S3\"}",
+		"gateway_id": "ag_4481e4519b7197dfc31e4e793e0d42ad",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.48.88.55/udp/33213/quic-v1\",\"/ip4/10.161.0.42/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmLrkJXMqGF2SS4bPWPpLKyf8TZAgJ8KvYQsD3Y73nPbuC\"}",
 		"cluster_id": "optimum_ethereum_mainnet_v0_1",
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T00:59:49.852942Z"
 	},
 	{
 		"gateway_id": "ag_8405a6b63870a9ff76c2aadbb68680f6",
@@ -1824,6 +1805,25 @@
 		"chain_id": "mainnet",
 		"version": "v1.0.2",
 		"commit_hash": "a4d5529",
-		"last_seen": "2026-08-08T00:12:00.994213Z"
+		"last_seen": "2026-08-08T01:02:00.994429Z"
+	},
+	{
+		"gateway_id": "ag_1d6e1ce7fcec3534fdf01377026b5028",
+		"gateway_http_addr": "51.159.106.11:48123",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/51.159.106.11/tcp/43213\",\"/ip6/2001:bc8:1201:729:da5e:d3ff:fe43:fab6/tcp/43213\",\"/ip4/172.18.0.1/tcp/43213\",\"/ip4/172.17.0.1/tcp/43213\",\"/ip4/172.19.0.1/tcp/43213\"],\"peerID\":\"16Uiu2HAmMWEqN9N1ARdWzNDBNdgordeL2Qa2BL7954MJMghcichu\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "95656e8",
+		"last_seen": "2026-08-08T00:59:49.852942Z"
+	},
+	{
+		"gateway_id": "ag_7862fd758ae90c1c2bd32accf5bd7c6c",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.145.242.159/udp/33213/quic-v1\",\"/ip4/10.161.0.25/udp/33213/quic-v1\",\"/ip4/172.17.0.1/udp/33213/quic-v1\"],\"peerID\":\"16Uiu2HAmSXiBc5L28hrsuiLcN1SeJ3nsK7EKYspxR881WPUsGUBE\"}",
+		"cluster_id": "optimum_ethereum_mainnet_v0_1",
+		"chain_id": "mainnet",
+		"version": "v1.0.2",
+		"commit_hash": "a4d5529",
+		"last_seen": "2026-08-08T01:01:58.948777Z"
 	}
 ]
