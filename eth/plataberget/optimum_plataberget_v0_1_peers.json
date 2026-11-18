@@ -1,0 +1,11 @@
+[
+	{
+		"gateway_id": "ag_5e9cc1fab559b29e1d6406c832eb6b24",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.148.170.6/tcp/33213\",\"/ip4/10.0.0.105/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmUYAhJEjQVrffFtPqHXo91GMP2KVeDWUEstDnishVv9Hd\"}",
+		"cluster_id": "optimum_plataberget_v0_1",
+		"chain_id": "plataberget",
+		"version": "dev",
+		"commit_hash": "4b169ea",
+		"last_seen": "2026-11-18T19:21:34.260557Z"
+	}
+]
