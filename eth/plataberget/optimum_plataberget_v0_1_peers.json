@@ -1,25 +1,25 @@
 [
 	{
-		"gateway_id": "ag_ce469fb7a1a52da57fc7a7bd3f298183",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.223.6/tcp/33213\",\"/ip4/10.10.0.47/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmDjm2zMnESUaQVu99E649JtCqvMzipbRz2EVd1Qcwb13n\"}",
+		"gateway_id": "ag_04bbcc90988c50d29406f0defc1bcda4",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.225.22/tcp/33213\",\"/ip4/10.20.0.58/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAkyJXv2HyZyKoW1iHzj2j8n65z8u1h8wDQbmjMubCBNqCT\"}",
 		"cluster_id": "optimum_plataberget_v0_1",
 		"chain_id": "plataberget",
 		"version": "dev",
 		"commit_hash": "451fe75",
-		"last_seen": "2026-11-20T17:22:17.082308Z"
-	},
-	{
-		"gateway_id": "ag_f759089a28e4b502409a30bdab9239c1",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.242.36/tcp/33213\",\"/ip4/10.10.0.48/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmA6REU8LnKhEnjvsJZjFJ6LSfS9q9TpUQ1HUKiaBXjwB5\"}",
-		"cluster_id": "optimum_plataberget_v0_1",
-		"chain_id": "plataberget",
-		"version": "dev",
-		"commit_hash": "451fe75",
-		"last_seen": "2026-11-20T17:22:17.131273Z"
+		"last_seen": "2026-11-20T17:18:55.850219Z"
 	},
 	{
 		"gateway_id": "ag_5e9cc1fab559b29e1d6406c832eb6b24",
 		"mump2p_addr": "{\"addrs\":[\"/ip4/34.148.170.6/tcp/33213\",\"/ip4/10.0.0.105/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmUYAhJEjQVrffFtPqHXo91GMP2KVeDWUEstDnishVv9Hd\"}",
+		"cluster_id": "optimum_plataberget_v0_1",
+		"chain_id": "plataberget",
+		"version": "dev",
+		"commit_hash": "451fe75",
+		"last_seen": "2026-11-20T17:22:37.899893Z"
+	},
+	{
+		"gateway_id": "ag_3da22803b8ecb7f201c2b3751b325e7d",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.26.46.77/tcp/33213\",\"/ip4/10.0.0.119/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmTPjfoUseWMmQTbyKESckPMtQ3hKW4g2vrYpafN7SsN4B\"}",
 		"cluster_id": "optimum_plataberget_v0_1",
 		"chain_id": "plataberget",
 		"version": "dev",
@@ -51,34 +51,16 @@
 		"chain_id": "plataberget",
 		"version": "dev",
 		"commit_hash": "451fe75",
-		"last_seen": "2026-11-20T17:17:52.916912Z"
+		"last_seen": "2026-11-20T17:22:52.916739Z"
 	},
 	{
-		"gateway_id": "ag_9d30f4422931e222812377ea10f73768",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.158.60.62/tcp/33213\",\"/ip4/10.10.0.46/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmP4Giu2131NAEt7eAvNCtBg9nJfYGvHuRtvGrGSysFQ8z\"}",
+		"gateway_id": "ag_ce469fb7a1a52da57fc7a7bd3f298183",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.143.223.6/tcp/33213\",\"/ip4/10.10.0.47/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmDjm2zMnESUaQVu99E649JtCqvMzipbRz2EVd1Qcwb13n\"}",
 		"cluster_id": "optimum_plataberget_v0_1",
 		"chain_id": "plataberget",
 		"version": "dev",
 		"commit_hash": "451fe75",
-		"last_seen": "2026-11-20T17:17:52.916912Z"
-	},
-	{
-		"gateway_id": "ag_04bbcc90988c50d29406f0defc1bcda4",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.159.225.22/tcp/33213\",\"/ip4/10.20.0.58/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAkyJXv2HyZyKoW1iHzj2j8n65z8u1h8wDQbmjMubCBNqCT\"}",
-		"cluster_id": "optimum_plataberget_v0_1",
-		"chain_id": "plataberget",
-		"version": "dev",
-		"commit_hash": "451fe75",
-		"last_seen": "2026-11-20T17:18:55.850219Z"
-	},
-	{
-		"gateway_id": "ag_3da22803b8ecb7f201c2b3751b325e7d",
-		"mump2p_addr": "{\"addrs\":[\"/ip4/34.26.46.77/tcp/33213\",\"/ip4/10.0.0.119/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmTPjfoUseWMmQTbyKESckPMtQ3hKW4g2vrYpafN7SsN4B\"}",
-		"cluster_id": "optimum_plataberget_v0_1",
-		"chain_id": "plataberget",
-		"version": "dev",
-		"commit_hash": "451fe75",
-		"last_seen": "2026-11-20T17:19:35.000534Z"
+		"last_seen": "2026-11-20T17:22:17.082308Z"
 	},
 	{
 		"gateway_id": "ag_d8016a3629aaa849dfc1fc315170698e",
@@ -115,5 +97,23 @@
 		"version": "dev",
 		"commit_hash": "451fe75",
 		"last_seen": "2026-11-20T17:22:17.082308Z"
+	},
+	{
+		"gateway_id": "ag_9d30f4422931e222812377ea10f73768",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.158.60.62/tcp/33213\",\"/ip4/10.10.0.46/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmP4Giu2131NAEt7eAvNCtBg9nJfYGvHuRtvGrGSysFQ8z\"}",
+		"cluster_id": "optimum_plataberget_v0_1",
+		"chain_id": "plataberget",
+		"version": "dev",
+		"commit_hash": "451fe75",
+		"last_seen": "2026-11-20T17:17:52.916912Z"
+	},
+	{
+		"gateway_id": "ag_f759089a28e4b502409a30bdab9239c1",
+		"mump2p_addr": "{\"addrs\":[\"/ip4/34.21.242.36/tcp/33213\",\"/ip4/10.10.0.48/tcp/33213\",\"/ip4/172.17.0.1/tcp/33213\"],\"peerID\":\"16Uiu2HAmA6REU8LnKhEnjvsJZjFJ6LSfS9q9TpUQ1HUKiaBXjwB5\"}",
+		"cluster_id": "optimum_plataberget_v0_1",
+		"chain_id": "plataberget",
+		"version": "dev",
+		"commit_hash": "451fe75",
+		"last_seen": "2026-11-20T17:22:17.131273Z"
 	}
 ]
